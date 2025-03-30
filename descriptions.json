@@ -1,0 +1,381 @@
+{
+    "Pink Trumpet":{
+        "img":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/%E7%B4%85%E8%8A%B1%E9%A2%A8%E9%88%B4%E6%9C%A8_20190217173304.jpg/202px-%E7%B4%85%E8%8A%B1%E9%A2%A8%E9%88%B4%E6%9C%A8_20190217173304.jpg",
+        "Scientific Name": "Tabebuia rosea",
+        "Family": "Bignoniaceae",
+        "Common Name": "Pink Trumpet Tree, Rosy Trumpet Tree",
+        "Uses": "Ornamental landscaping, timber",
+        "Description": "The Pink Trumpet Tree is admired for its vibrant pink blooms that blanket its canopy in spring.Native to Central and South America, it thrives in warm climates and welldrained soil. Its wood is durable and used in furnituremaking, though it`s primarily planted for beauty. The tree can reach heights of 60100 feet, offering ample shade in parks and gardens."},
+
+
+
+    "Coconut Tree" : {
+        "img":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Lefaga%2C_Return_to_Paradise_beach%2C_south_coast_Upolu_Island%2C_Samoa%2C_2009.jpg/330px-Lefaga%2C_Return_to_Paradise_beach%2C_south_coast_Upolu_Island%2C_Samoa%2C_2009.jpg",
+        "Scientific Name": "Cocos nucifera",
+        "Family": "Palmaceae",
+        "Common Name": "Coconut Palm",
+        "Uses":"Food (coconut fruit, oil), fiber, timber, thatching",
+        "Description":  
+        "The Coconut Palm is an iconic tropical tree, symbolizing coastal landscapes. Its fruit provides water, meat, and oil, while leaves are used for roofing. Growing up to 100 feet, it prefers sandy, salty soils near the sea. Every part of the tree is utilized, earning it the nickname Tree of Life."},
+
+
+
+    "Brazilian Rosewood": {
+        "img":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Dalbergia_nigra_Bl%C3%A4tter1.jpg/330px-Dalbergia_nigra_Bl%C3%A4tter1.jpg",
+        "Scientific Name": "Jacaranda Mimosifolia",
+        "Family": "Bignoniaceae",
+        "Common Name": "Brazilian Rosewood, Bahia Rosewood, Black Poui",
+        "Uses": "Venereal infections, Gastrointestinal disorders, Highquality timber (furniture, instruments), ornamental",
+        "Description":  
+        "Brazilian Rosewood is prized for its dark, richly grained wood, used in luxury furniture. Native to Brazil, it grows slowly, reaching up to 125 feet in rainforests. Its heartwood emits a sweet, roselike fragrance when cut, hence the name. Overharvesting has made it rare and protected in many regions."},
+
+
+
+    "Divi Divi":{
+        "img":"https://upload.wikimedia.org/wikipedia/commons/8/80/Caesalpinia_coriaria.jpg",
+        "Scientific Name": "Libidibia coriaria (formerly Caesalpinia coriaria)",
+        "Family": "Fabaceae",
+        "Common Name": "Divi Divi, Watapana",
+        "Uses": "Tannin production (leather), windbreaks, Flowering plant",
+        "Description":  
+        "The Divi Divi is a small, windsculpted tree native to the Caribbean and South America. Its twisted shape, caused by prevailing winds, makes it a striking landscape feature. The pods are rich in tannins, historically used for leather tanning. It rarely exceeds 30 feet, thriving in arid, coastal environments."},
+
+
+
+    "Foxtail Palm":{
+        "img":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/FoxTail_Palm_at_Seaworld.jpg/330px-FoxTail_Palm_at_Seaworld.jpg",
+        "Scientific Name": "Wodyetia bifurcata",
+        "Family": "Arecaceae",
+        "Common Name": "Foxtail Palm",
+        "Uses": "Ornamental landscaping",
+        "Description":  
+        "The Foxtail Palm, native to Australia, is named for its bushy, foxtaillike fronds. It grows to about 30 feet, with a slender trunk and vibrant green foliage. Popular in tropical gardens, it prefers sunny, welldrained locations. Its striking appearance makes it a favorite for decorative planting."},
+
+
+
+    "Jaggery Palm":{
+        "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTujMw0X6mSZ8pROcSYCpCT1FOrrsxVOJAi3g&s",
+        "Scientific Name": "Caryota urens",
+        "Family": "Arecaceae",
+        "Common Name": "Jaggery Palm, Fishtail Palm",
+        "Uses":"Sap for jaggery (sugar), toddy, fiber",
+        "Description":  
+        "The Jaggery Palm is a towering species, reaching up to 65 feet in tropical Asia. Its sap is tapped to produce jaggery and fermented into toddy, a traditional drink. The fishtailshaped leaves give it a unique silhouette in forests and gardens. It flowers once in its lifetime, then dies, a trait called monocarpic."},
+
+
+
+    "Indian Coral Tree":{
+        "img":"https://upload.wikimedia.org/wikipedia/commons/0/0d/Flower_I_IMG_3974.jpg",
+        "Scientific Name": "Erythrina Indica",
+        "Family": "Caesalpiniaceae",
+        "Common Name": "Indian Coral Tree, Tiger`s Claw, Sunshine tree",
+        "Uses": "Treatment of intestinal worms, Anorexia, Cholesterol imbalance",
+        "Description":  
+        "The Indian Coral Tree dazzles with bright red flowers, resembling coral or claws. Native to India, it grows to 60 feet and sheds leaves before blooming. Its bark and leaves are used in traditional medicine for various ailments. It`s a popular shade tree in tropical regions, enhancing landscapes."},
+
+
+    "Indian Sandalwood":{
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/SantalumAlbumSapling.jpg/330px-SantalumAlbumSapling.jpg",
+        "Scientific Name": "Santalum album",
+        "Family": "Santalaceae",
+        "Common Name": "Indian Sandalwood",
+        "Uses": "Common cold, Cough, Bronchitis, Fragrant wood (perfumes, carvings), oil, religious ceremonies",
+        "Description":  
+        "Indian Sandalwood is revered for its aromatic heartwood, used in perfumes and incense. A small, slowgrowing tree, it reaches 3050 feet in India`s dry forests. Its oil is extracted for cosmetics and traditional medicine. Overexploitation has made it endangered, driving conservation efforts."},
+
+
+
+    "Drooping Ashoka":{
+        "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7nAlFML3WfCl6dgk14GaR9oZ2l9Nh9quuZg&s",
+        "Scientific Name": "Polyalthia Longifolia",
+        "Family": "Annonaceae",
+        "Common Name": "Ashoka Tree, Sorrowless Tree, Synonum polyathia",    "Uses": "medicinal, religious significance",
+        "Description":  
+        "The Drooping Ashoka is a sacred tree in India, known for its lush, drooping foliage. It grows to 3040 feet, bearing clusters of orangeyellow flowers. Its bark is used in Ayurvedic medicine to treat uterine disorders. Associated with Buddhist and Hindu traditions, it symbolizes peace."},
+
+
+
+    "Jamaican Cherry":{
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Muntingia_calabura_%282%29.JPG/330px-Muntingia_calabura_%282%29.JPG",
+        "Scientific Name": "Muntingia calabura",
+        "Family": "Tiliaceae",
+        "Common Name": "Jamaican Cherry, Panama Berry, Bajely Tree",
+        "Uses": "Flowers are used for antiseptic, Treat abdominal cramps ans spasms, Edible fruit, timber",
+        "Description":  
+        "The Jamaican Cherry is a fastgrowing tree, reaching 2540 feet in tropical areas. Its small, red berries are sweet and loved by birds and humans alike. Native to Central America, it`s often planted for shade in urban settings. The wood is soft but useful for light construction or fuel."},
+
+
+
+    "False Ashoka":{
+        "img":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Polyalthia_longifolia.jpg/330px-Polyalthia_longifolia.jpg",
+        "Scientific Name": "Polyalthia longifolia",
+        "Family": "Annonaceae",
+        "Common Name": "False Ashoka, Mast Tree",
+        "Uses": "noise barriers, timber",
+        "Description":  
+        "The False Ashoka is a tall, columnar tree, growing up to 60 feet in India. Its dense, drooping leaves make it ideal for privacy screens and windbreaks. Often mistaken for the true Ashoka, it lacks the same medicinal value. It`s widely planted along roads for its neat, symmetrical shape."},
+
+
+
+    "Yellow Trumpet":{
+        "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0AMjzoyfWELppPbxX9No81nwYVK8H8XMzrw&s",
+        "Scientific Name": "Tabebuia aurea",
+        "Family": "Bignoniaceae",
+        "Common Name": "Yellow Trumpet Tree, Golden Trumpet",
+        "Uses": "timber, Ornamental",
+        "Description":  
+        "The Yellow Trumpet Tree bursts into brilliant yellow blooms, lighting up landscapes. Native to South America, it grows to 2030 feet in dry, sunny climates. Its wood is hard and durable, used in construction and crafts. It`s a favorite ornamental for its vivid color and compact size."},
+
+
+
+    "Bougainvillea":{
+        "img":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/%D0%9D%D0%B8%D0%BA%D0%B8%D1%82%D1%81%D0%BA%D0%B8%D0%B9_%D0%B1%D0%BE%D1%82%D0%B0%D0%BD%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D1%81%D0%B0%D0%B4_022.jpg/330px-%D0%9D%D0%B8%D0%BA%D0%B8%D1%82%D1%81%D0%BA%D0%B8%D0%B9_%D0%B1%D0%BE%D1%82%D0%B0%D0%BD%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D1%81%D0%B0%D0%B4_022.jpg",
+        "Scientific Name": "Bougainvillea spectabilis",
+        "Family": "Nyctaginaceae",
+        "Common Name": "Bougainvillea",
+        "Uses": "hedging",
+        "Description":  
+        "Bougainvillea is a thorny, climbing shrub famed for its vivid bracts in red, pink, or purple. It can grow as a vine or pruned into a bush, reaching 1540 feet. Native to South America, it thrives in warm, sunny conditions. It`s a staple in tropical gardens, adding bold color to fences and walls."},
+
+
+
+    "Jacktree":{
+        "img":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Jackfruit_hanging.JPG/330px-Jackfruit_hanging.JPG",
+        "Scientific Name": "Artocarpus heterophyllus",
+        "Family": "Moraceae",
+        "Common Name": "Jacktree, Pilapalam, Chakki",
+        "Uses": "Ashes of leaves are used for ulcers and boils, Edible fruit, timber",
+        "Description":  
+        "The Jacktree produces the world`s largest treeborne fruit, weighing up to 80 pounds. Native to India, it grows to 5070 feet, with dense, evergreen foliage. Its fruit is eaten ripe or unripe, while the wood is valued for furniture. It`s a versatile tree, thriving in humid, tropical climates."},
+
+
+
+    "Cookpine":{
+        "img":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Araucariacolumnaris2088025388_0924f25902_o.jpg/360px-Araucariacolumnaris2088025388_0924f25902_o.jpg",
+        "Scientific Name": "Araucaria columnaris",
+        "Family": "Araucariaceae",
+        "Common Name": "Cook Pine, Coral Reef or New Caledonian Pine",
+        "Uses": "Anti ulser, Anti depressent, Anti viral, Neuro, Anti microbial activities, timber",
+        "Description":  
+        "The Cook Pine is a tall, narrow conifer, often mistaken for a Christmas tree. Native to New Caledonia, it can reach 200 feet, leaning toward the equator. Its soft wood is used for light construction and crafts. It`s planted ornamentally for its striking, tiered silhouette."},
+
+
+
+    "Bamboo":{
+        "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQs3TGI7YL2niaGLd5aOVK3HLscC7sEBrpIgQ&s",
+        "Scientific Name": "Bambusa vulgaris (common species)",
+        "Family": "Poaceae",
+        "Common Name": "Bamboo",
+        "Uses": "Construction, crafts, food (shoots), erosion control",
+        "Description": 
+        "Bamboo is a fastgrowing grass, reaching up to 100 feet in some species. Its hollow, woody stems are used for building, furniture, and paper. Native to Asia, it thrives in diverse climates, spreading via rhizomes. Young shoots are edible, and it`s vital for sustainable design."},
+
+
+
+    "Bush":{
+        "img":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Cytisus_scoparius2.jpg/500px-Cytisus_scoparius2.jpg",
+        "Scientific Name": "Varies (generic term, assuming Baccharis spp. as example)",
+        "Family": "Varies",
+        "Common Name": "Bush, Broom Bush",
+        "Uses": "Erosion control, ornamental",
+        "Description":  
+        "Bush is a broad term, but many are hardy shrubs like Baccharis species. Typically lowgrowing, they reach 310 feet, thriving in tough conditions. They stabilize soil and are used in landscaping for their resilience. Flowers are small but attract pollinators in dry regions."},
+
+
+
+    "Areca Palm":{
+        "img":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/%E6%95%A3%E5%B0%BE%E8%91%B5Dypsis_lutescens_20210511145013_03.jpg/250px-%E6%95%A3%E5%B0%BE%E8%91%B5Dypsis_lutescens_20210511145013_03.jpg",
+        "Scientific Name": "Dypsis lutescens",
+        "Family": "Arecaceae",
+        "Common Name": "Areca Palm, Butterfly Palm",
+        "Uses": "indoor plant",
+        "Description":  
+        "The Areca Palm is a clustering palm with feathery, arching fronds.  Native to Madagascar, it grows to 2030 feet outdoors or as a potted plant. It`s popular indoors for its airpurifying qualities and elegant look. It prefers bright, indirect light and moist, welldrained soil."},
+
+
+
+    "Indian Almond":{
+        "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDmbcv8rj7zjrK3sYEgMoKNIx2zGevSWoy0A&s",
+        "Scientific Name": "Terminalia catappa",
+        "Family": "Combretaceae",
+        "Common Name": "Indian Almond, Tropical Almond",
+        "Uses": "Edible nuts, timber",
+        "Description":  
+        "The Indian Almond is a broadcanopied tree, growing to 115 feet in the tropics. Its large leaves turn red before falling, and its nuts are edible when processed. Native to Asia, it`s planted for shade along coastlines and streets. The wood is used for construction, and it tolerates salty soils."},
+
+
+
+    "Peepal":{
+        "img":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Ficus_religiosa_Bo.jpg/330px-Ficus_religiosa_Bo.jpg",
+        "Scientific Name": "Ficus religiosa",
+        "Family": "Moraceae",
+        "Common Name": "Peepal, Sacred Fig",
+        "Uses": "Religious significance, medicinal",
+        "Description":  
+        "The Peepal is a sacred tree in Hinduism and Buddhism, growing to 100 feet. Its heartshaped leaves rustle distinctively in the wind, symbolizing life. Native to India, its bark and leaves are used in traditional remedies. It`s often found near temples, revered for its spiritual importance."},
+
+
+
+    "Blue Trumpet Vine":{
+        "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmahO7w1kk8tOE1wWyZKXD2MVKNSUvNWctJA&s",
+        "Scientific Name": "Thunbergia grandiflora",
+        "Family": "Acanthaceae",
+        "Common Name": "Blue Trumpet Vine, Bengal Trumpet",
+        "Uses": "Trellis cover",
+        "Description":  
+        "The Blue Trumpet Vine is a vigorous climber with stunning bluepurple flowers. Native to India, it can grow 2030 feet, covering fences and pergolas. It blooms yearround in warm climates, attracting hummingbirds. It prefers full sun and rich soil, adding vertical beauty to gardens."},
+
+
+
+    "Weeping Bottlebrush":{
+        "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfK2zt-D4qTbi4fsjh6vDu5kVzuP4r20nqjQ&s",
+        "Scientific Name": "Callistemon viminalis",
+        "Family": "Myrtaceae",
+        "Common Name": "Weeping Bottlebrush",
+        "Uses": "Treatment od Diarrhea, Dysentry, Rheumatism",
+        "Description":  
+        "The Weeping Bottlebrush is named for its red, brushlike flower spikes. Native to Australia, it grows to 2030 feet with drooping branches. It attracts birds and bees, thriving in wet or dry soils. Its graceful form makes it a popular choice for landscaping."},
+
+
+
+    "Tree of Heaven":{
+        "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvjwzGn9swkzziKZ2dGRe4MUXGrA5NDinwdQ&s",
+        "Scientific Name": "Ailanthus altissima",
+        "Family": "Simaroubaceae",
+        "Common Name": "Tree of Heaven, Stink Tree",
+        "Uses": "Urban planting, medicinal (traditional), timber",
+        "Description":  
+        "The Tree of Heaven is a fastgrowing species, reaching 80 feet in cities. Native to China, it`s invasive in some areas, tolerating pollution well. Its leaves emit a foul odor when crushed, earning its nickname. Traditionally, its bark was used in Chinese medicine for various ailments."},
+
+
+
+    "African Tulip Tree":{
+        "img":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Starr_031210-0047_Spathodea_campanulata.jpg/1200px-Starr_031210-0047_Spathodea_campanulata.jpg",
+        "Scientific Name": "Spathodea campanulata",
+        "Family": "Bignoniaceae",
+        "Common Name": "African Tulip Tree, Flame of the Forest",
+        "Uses": "shade",
+        "Description":  
+        "The African Tulip Tree dazzles with large, orangered, tulipshaped flowers. Native to tropical Africa, it grows to 80 feet in warm climates. Its broad canopy provides though it can be invasive. It`s a striking ornamental, often planted in parks and along roads."},
+
+
+
+    "Guava Tree":{
+        "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAQpz5vG4O16-3qfYNLFmimITkmWOA0xZNgQ&s",
+        "Scientific Name": "Psidium guajava",
+        "Family": "Myrtaceae",
+        "Common Name": "Guava Tree",
+        "Uses": "Effective in Diarrhea, Dysentery, Gastroenteritis, Hypertension, Diabetes, Caries pain relief, Cough, Oral ulcers, Edible fruit, timber",
+        "Description":  
+        "The Guava Tree is a small evergreen, growing to 33 feet in the tropics. Its sweet, aromatic fruit is rich in vitamin C and eaten fresh or juiced. Native to Central America, its leaves are used to treat digestive issues. The wood is hard and useful for tools or fuel."},
+
+
+
+    "Weeping Fig":{
+        "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTiuJvBdYdW7M5xvfZF1uCsUTkf_DJ9Dex1A&s",
+        "Scientific Name": "Ficus benjamina",
+        "Family": "Moraceae",
+        "Common Name": "Weeping Fig",
+        "Uses": "indoor plant",
+        "Description":  
+        "The Weeping Fig is a graceful tree with drooping branches and glossy leaves. Native to Asia and Australia, it grows to 50 feet outdoors or as a houseplant. It`s prized for its elegant form and airpurifying qualities indoors. It thrives in bright light and is sensitive to cold drafts."},
+
+
+
+    "Fig":{
+        "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSidEjm6W_loeDgHQeCSp2uXD2AGQtiq7obZw&s",
+        "Scientific Name": "Ficus racemosa",
+        "Family": "Moraceae",
+        "Common Name": "Fig, Atthi hannu, Udumbara",
+        "Uses": "Diabetes, Liver disorders, Hemorrhoids, Edible fruit",
+        "Description":  
+        "The Common Fig is a small tree, growing to 33 feet, known for its sweet fruit. Native to the Middle East, it`s cultivated worldwide in warm climates. Its broad leaves provide and figs are eaten fresh or dried. It`s been a staple in human diets for thousands of years."},
+
+
+
+    "She-oak":{
+        "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBu_Llr-0Mt2a3tcmdADQSvsZFnz-gsn60Fw&s",
+        "Scientific Name": "Casuarina equisetifolia",
+        "Family": "Casuarinaceae",
+        "Common Name": "She-oak, Australian Pine",
+        "Uses": "Windbreaks, timber, erosion control",
+        "Description":  
+        "The Sheoak resembles a pine with its needlelike foliage, growing to 100 feet. Native to Australia, it`s planted to stabilize soil and block wind. Its wood is hard and used for fuel or construction. It thrives in coastal areas, tolerating salt and poor soils."},
+
+
+
+    "Ravenala":{
+        "img":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Ravenala%2C_travellers_palms%2C_on_Maui.jpg/330px-Ravenala%2C_travellers_palms%2C_on_Maui.jpg",
+        "Scientific Name": "Ravenala madagascariensis",
+        "Family": "Strelitziaceae",
+        "Common Name": "Traveller`s Palm, Traveller`s Tree",
+        "Uses": "water source",
+        "Description":  
+        "The Traveller`s Palm isn`t a true palm but a bananalike plant from Madagascar. It grows to 50 feet, with fanshaped leaves holding rainwater at their bases. Its striking symmetry makes it a tropical landscaping favorite. Historically, travelers drank from its leaf bases in emergencies."},
+
+
+
+    "Champaka":{
+        "img":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Magnolia1.jpg/330px-Magnolia1.jpg",
+        "Scientific Name": "Magnolia champaca",
+        "Family": "Magnoliaceae",
+        "Common Name": "Champak, Yellow Jade Orchid Tree",
+        "Uses": "Fragrant flowers (perfume), timber",
+        "Description":  
+        "Champaka is famed for its fragrant, yelloworange flowers used in perfumes. Native to South Asia, it grows to 100 feet with a dense, evergreen canopy. Its wood is valued for furniture, and flowers hold cultural significance. It thrives in humid, tropical climates, adding scent and beauty."},
+
+
+
+    "Copperpod":{
+        "img":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Flower%2C_buds%2C_leaves%2C_fruit_I_IMG_1594.jpg/381px-Flower%2C_buds%2C_leaves%2C_fruit_I_IMG_1594.jpg",
+        "Scientific Name": "Peltophorum pterocarpum",
+        "Family": "Leguminosae",
+        "Common Name": "Copperpod, Yellow Flame Tree",
+        "Uses": "timber",
+        "Description":  
+        "The Copperpod blooms with bright yellow flowers, resembling a golden canopy. Native to Southeast Asia, it grows to 5080 feet, offering ample shade. Its rustybrown seed pods give it the copper name. It`s widely planted along streets for its beauty and durability."},
+
+
+
+    "Peace Lily":{
+        "img":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Spathiphyllum_cochlearispathum_RTBG.jpg/330px-Spathiphyllum_cochlearispathum_RTBG.jpg",
+        "Scientific Name": "Spathiphyllum wallisii",
+        "Family": "Araceae",
+        "Common Name": "Peace Lily",
+        "Uses": "Indoor plant, air purification",
+        "Description":  
+        "The Peace Lily is a lowgrowing plant with white, hoodlike blooms. Native to Central America, it thrives in shade and humid conditions. Popular indoors, it removes toxins from the air, enhancing health.  Its glossy leaves and elegant flowers make it a decor staple."},
+
+
+
+    "Mango Tree":{
+        "img":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Mangoes_%28Magnifera_indica%29_from_India.jpg/330px-Mangoes_%28Magnifera_indica%29_from_India.jpg",
+        "Scientific Name": "Mangifera indica",
+        "Family": "Anacardiaceae",
+        "Common Name": "Mango Tree",
+        "Uses": "Edible fruit, timber",
+        "Description":  
+        "The Mango Tree is a tropical giant, growing to 100 feet with a broad canopy. Native to India, it produces juicy, sweet fruit enjoyed worldwide. Its wood is used for furniture, and leaves have medicinal uses. It`s a cultural icon, thriving in warm, welldrained soils."},
+
+
+
+    "Norfolk Island Pine":{
+        "img":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Norfolkpine001.jpg/255px-Norfolkpine001.jpg",
+        "Scientific Name": "Araucaria heterophylla",
+        "Family": "Araucariaceae",
+        "Common Name": "Norfolk Island Pine",
+        "Uses": "Ornamental, Christmas tree substitute",
+        "Description":  
+        "The Norfolk Island Pine is a softneedled conifer, growing to 200 feet in the wild. Native to Norfolk Island, it`s often sold as a small holiday tree. Its tiered branches and lush foliage make it a decorative favorite. It prefers bright light and cool temperatures indoors."},
+
+
+
+    "Unknown":{
+        "Scientific Name": "N/A",
+        "Family": "N/A",
+        "Common Name": "Unknown",
+        "Uses": "N/A",
+        "Description":  
+        "Unknown lacks specific identification, preventing detailed classification. It could represent an unrecorded or unidentified species in the dataset. Without more data, its uses and traits remain speculative. Further context or observation would be needed to classify it."}
+
+    }

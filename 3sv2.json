@@ -1,0 +1,4484 @@
+[
+    {
+        "name": "Pink Blossoms",
+        "size": "3",
+        "latlng": [
+            "1245.860",
+            "247.750"
+        ],
+        "color": "palevioletred"
+    },
+    {
+        "name": "Pink Blossoms",
+        "size": "3",
+        "latlng": [
+            "1262.494",
+            "249.000"
+        ],
+        "color": "palevioletred"
+    },
+    {
+        "name": "Pink Blossoms",
+        "size": "3",
+        "latlng": [
+            "1237.605",
+            "247.125"
+        ],
+        "color": "palevioletred"
+    },
+    {
+        "name": "Coconut Tree",
+        "size": "3",
+        "latlng": [
+            "1265.370",
+            "160.875"
+        ],
+        "color": "rgb(30, 130, 76)"
+    },
+    {
+        "name": "Coconut Tree",
+        "size": "3",
+        "latlng": [
+            "1281.004",
+            "168.250"
+        ],
+        "color": "rgb(30, 130, 76)"
+    },
+    {
+        "name": "Coconut Tree",
+        "size": "3",
+        "latlng": [
+            "1269.748",
+            "216.875"
+        ],
+        "color": "rgb(30, 130, 76)"
+    },
+    {
+        "name": "Coconut Tree",
+        "size": "3",
+        "latlng": [
+            "1272.624",
+            "204.875"
+        ],
+        "color": "rgb(30, 130, 76)"
+    },
+    {
+        "name": "Pink Blossoms",
+        "size": "3",
+        "latlng": [
+            "1178.730",
+            "220.625"
+        ],
+        "color": "palevioletred"
+    },
+    {
+        "name": "Pink Blossoms",
+        "size": "3",
+        "latlng": [
+            "1145.212",
+            "222.750"
+        ],
+        "color": "palevioletred"
+    },
+    {
+        "name": "Brazilian Rosewood",
+        "size": "3",
+        "latlng": [
+            "1172.401",
+            "223.000"
+        ],
+        "color": "rgb(53, 94, 59)"
+    },
+    {
+        "name": "Brazilian Rosewood",
+        "size": "3",
+        "latlng": [
+            "1157.893",
+            "223.500"
+        ],
+        "color": "rgb(53, 94, 59)"
+    },
+    {
+        "name": "Brazilian Rosewood",
+        "size": "3",
+        "latlng": [
+            "1125.376",
+            "223.500"
+        ],
+        "color": "rgb(53, 94, 59)"
+    },
+    {
+        "name": "Brazilian Rosewood",
+        "size": "3",
+        "latlng": [
+            "1096.360",
+            "226.000"
+        ],
+        "color": "rgb(53, 94, 59)"
+    },
+    {
+        "name": "Brazilian Rosewood",
+        "size": "3",
+        "latlng": [
+            "1073.347",
+            "224.000"
+        ],
+        "color": "rgb(53, 94, 59)"
+    },
+    {
+        "name": "Brazilian Rosewood",
+        "size": "3",
+        "latlng": [
+            "1046.833",
+            "224.000"
+        ],
+        "color": "rgb(53, 94, 59)"
+    },
+    {
+        "name": "Divi Divi",
+        "size": "2",
+        "latlng": [
+            "990.896",
+            "221.000"
+        ],
+        "color": "rgb(46, 139, 87)"
+    },
+    {
+        "name": "Divi Divi",
+        "size": "2",
+        "latlng": [
+            "957.378",
+            "224.000"
+        ],
+        "color": "rgb(46, 139, 87)"
+    },
+    {
+        "name": "Foxtail Palm",
+        "size": "2",
+        "latlng": [
+            "962.404",
+            "171.000"
+        ],
+        "color": "rgb(42, 121, 10)"
+    },
+    {
+        "name": "Foxtail Palm",
+        "size": "2",
+        "latlng": [
+            "959.403",
+            "181.500"
+        ],
+        "color": "rgb(12, 177, 3)"
+    },
+    {
+        "name": "Foxtail Palm",
+        "size": "2",
+        "latlng": [
+            "958.402",
+            "196.000"
+        ],
+        "color": "rgb(22, 242, 40)"
+    },
+    {
+        "name": "Foxtail Palm",
+        "size": "2",
+        "latlng": [
+            "956.901",
+            "207.000"
+        ],
+        "color": "rgb(17, 184, 12)"
+    },
+    {
+        "name": "Foxtail Palm",
+        "size": "2",
+        "latlng": [
+            "923.444",
+            "223.000"
+        ],
+        "color": "rgb(7, 108, 29)"
+    },
+    {
+        "name": "Foxtail Palm",
+        "size": "2",
+        "latlng": [
+            "906.434",
+            "222.000"
+        ],
+        "color": "rgb(30, 165, 11)"
+    },
+    {
+        "name": "Foxtail Palm",
+        "size": "2",
+        "latlng": [
+            "887.924",
+            "221.500"
+        ],
+        "color": "rgb(23, 225, 18)"
+    },
+    {
+        "name": "Foxtail Palm",
+        "size": "2",
+        "latlng": [
+            "867.413",
+            "219.500"
+        ],
+        "color": "rgb(47, 103, 22)"
+    },
+    {
+        "name": "Foxtail Palm",
+        "size": "2",
+        "latlng": [
+            "851.404",
+            "220.000"
+        ],
+        "color": "rgb(8, 186, 45)"
+    },
+    {
+        "name": "Jaggery Palm",
+        "size": "3",
+        "latlng": [
+            "1217.403",
+            "247.500"
+        ],
+        "color": "rgb(11, 159, 7)"
+    },
+    {
+        "name": "Jaggery Palm",
+        "size": "3",
+        "latlng": [
+            "1201.894",
+            "247.500"
+        ],
+        "color": "rgb(44, 121, 21)"
+    },
+    {
+        "name": "Jaggery Palm",
+        "size": "3",
+        "latlng": [
+            "1185.886",
+            "247.000"
+        ],
+        "color": "rgb(36, 239, 5)"
+    },
+    {
+        "name": "Jaggery Palm",
+        "size": "3",
+        "latlng": [
+            "1169.877",
+            "247.000"
+        ],
+        "color": "rgb(39, 190, 31)"
+    },
+    {
+        "name": "Indian Coral Tree",
+        "size": "2",
+        "latlng": [
+            "1272.433",
+            "182.000"
+        ],
+        "color": "rgb(0, 128, 0)"
+    },
+    {
+        "name": "Indian Sandalwood",
+        "size": "2",
+        "latlng": [
+            "959.869",
+            "242.000"
+        ],
+        "color": "orange"
+    },
+    {
+        "name": "Drooping Ashoka",
+        "size": "3",
+        "latlng": [
+            "908.841",
+            "242.000"
+        ],
+        "color": "rgb(32, 216, 6)"
+    },
+    {
+        "name": "Jamaican Cherry",
+        "size": "2",
+        "latlng": [
+            "922.846",
+            "299.500"
+        ],
+        "color": "rgb(46, 118, 30)"
+    },
+    {
+        "name": "Cherry Blossoms",
+        "size": "2",
+        "latlng": [
+            "905.344",
+            "300.000"
+        ],
+        "color": "rgb(46, 115, 32)"
+    },
+    {
+        "name": "Cherry Blossoms",
+        "size": "3",
+        "latlng": [
+            "811.856",
+            "218.000"
+        ],
+        "color": "rgb(19, 236, 10)"
+    },
+    {
+        "name": "False Ashoka",
+        "size": 2.5,
+        "latlng": [
+            "845.375",
+            "328.000"
+        ],
+        "color": "rgb(4, 100, 15)"
+    },
+    {
+        "name": "False Ashoka",
+        "size": 2.5,
+        "latlng": [
+            "845.375",
+            "386.000"
+        ],
+        "color": "rgb(15, 221, 30)"
+    },
+    {
+        "name": "False Ashoka",
+        "size": 2.5,
+        "latlng": [
+            "844.374",
+            "350.000"
+        ],
+        "color": "rgb(39, 198, 24)"
+    },
+    {
+        "name": "False Ashoka",
+        "size": 2.5,
+        "latlng": [
+            "843.374",
+            "364.000"
+        ],
+        "color": "rgb(9, 245, 23)"
+    },
+    {
+        "name": "False Ashoka",
+        "size": 2.5,
+        "latlng": [
+            "849.377",
+            "373.000"
+        ],
+        "color": "rgb(17, 220, 8)"
+    },
+    {
+        "name": "False Ashoka",
+        "size": 2.5,
+        "latlng": [
+            "848.376",
+            "338.000"
+        ],
+        "color": "rgb(27, 197, 8)"
+    },
+    {
+        "name": "Coconut Tree",
+        "size": "3",
+        "latlng": [
+            "737.852",
+            "286.000"
+        ],
+        "color": "rgb(30, 130, 76)"
+    },
+    {
+        "name": "False Ashoka",
+        "size": 2.5,
+        "latlng": [
+            "812.893",
+            "300.000"
+        ],
+        "color": "rgb(44, 229, 11)"
+    },
+    {
+        "name": "False Ashoka",
+        "size": 2.5,
+        "latlng": [
+            "839.908",
+            "300.000"
+        ],
+        "color": "rgb(44, 252, 46)"
+    },
+    {
+        "name": "False Ashoka",
+        "size": 2.5,
+        "latlng": [
+            "788.880",
+            "300.000"
+        ],
+        "color": "rgb(18, 248, 21)"
+    },
+    {
+        "name": "False Ashoka",
+        "size": 2.5,
+        "latlng": [
+            "833.405",
+            "300.500"
+        ],
+        "color": "rgb(17, 212, 27)"
+    },
+    {
+        "name": "False Ashoka",
+        "size": 2.5,
+        "latlng": [
+            "818.897",
+            "299.000"
+        ],
+        "color": "rgb(5, 195, 42)"
+    },
+    {
+        "name": "False Ashoka",
+        "size": 2.5,
+        "latlng": [
+            "804.889",
+            "298.500"
+        ],
+        "color": "rgb(50, 247, 45)"
+    },
+    {
+        "name": "False Ashoka",
+        "size": 2.5,
+        "latlng": [
+            "796.596",
+            "300.125"
+        ],
+        "color": "rgb(4, 106, 15)"
+    },
+    {
+        "name": "False Ashoka",
+        "size": 2.5,
+        "latlng": [
+            "752.850",
+            "293.500"
+        ],
+        "color": "rgb(2, 140, 26)"
+    },
+    {
+        "name": "False Ashoka",
+        "size": 2.5,
+        "latlng": [
+            "702.322",
+            "294.500"
+        ],
+        "color": "rgb(37, 230, 39)"
+    },
+    {
+        "name": "False Ashoka",
+        "size": 2.5,
+        "latlng": [
+            "724.834",
+            "294.000"
+        ],
+        "color": "rgb(18, 186, 0)"
+    },
+    {
+        "name": "False Ashoka",
+        "size": 2.5,
+        "latlng": [
+            "748.847",
+            "292.500"
+        ],
+        "color": "rgb(22, 225, 1)"
+    },
+    {
+        "name": "False Ashoka",
+        "size": 2.5,
+        "latlng": [
+            "733.339",
+            "291.500"
+        ],
+        "color": "rgb(37, 172, 25)"
+    },
+    {
+        "name": "False Ashoka",
+        "size": 2.5,
+        "latlng": [
+            "719.831",
+            "290.500"
+        ],
+        "color": "rgb(42, 153, 33)"
+    },
+    {
+        "name": "False Ashoka",
+        "size": 2.5,
+        "latlng": [
+            "706.824",
+            "290.000"
+        ],
+        "color": "rgb(39, 205, 8)"
+    },
+    {
+        "name": "Foxtail Palm",
+        "size": "3",
+        "latlng": [
+            "844.400",
+            "281.500"
+        ],
+        "color": "rgb(40, 161, 30)"
+    },
+    {
+        "name": "Foxtail Palm",
+        "size": "3",
+        "latlng": [
+            "812.882",
+            "280.000"
+        ],
+        "color": "rgb(3, 108, 33)"
+    },
+    {
+        "name": "Foxtail Palm",
+        "size": "3",
+        "latlng": [
+            "818.886",
+            "267.000"
+        ],
+        "color": "rgb(37, 186, 39)"
+    },
+    {
+        "name": "Foxtail Palm",
+        "size": "3",
+        "latlng": [
+            "839.897",
+            "267.500"
+        ],
+        "color": "rgb(4, 240, 42)"
+    },
+    {
+        "name": "Foxtail Palm",
+        "size": "3",
+        "latlng": [
+            "879.919",
+            "266.500"
+        ],
+        "color": "rgb(43, 233, 50)"
+    },
+    {
+        "name": "Foxtail Palm",
+        "size": "3",
+        "latlng": [
+            "810.346",
+            "209.375"
+        ],
+        "color": "rgb(34, 172, 8)"
+    },
+    {
+        "name": "Foxtail Palm",
+        "size": "3",
+        "latlng": [
+            "806.844",
+            "208.500"
+        ],
+        "color": "rgb(47, 132, 18)"
+    },
+    {
+        "name": "Foxtail Palm",
+        "size": "3",
+        "latlng": [
+            "803.593",
+            "208.500"
+        ],
+        "color": "rgb(17, 112, 33)"
+    },
+    {
+        "name": "Foxtail Palm",
+        "size": "3",
+        "latlng": [
+            "799.590",
+            "207.500"
+        ],
+        "color": "rgb(8, 122, 36)"
+    },
+    {
+        "name": "Foxtail Palm",
+        "size": "3",
+        "latlng": [
+            "794.838",
+            "202.000"
+        ],
+        "color": "rgb(38, 187, 42)"
+    },
+    {
+        "name": "Foxtail Palm",
+        "size": "3",
+        "latlng": [
+            "801.591",
+            "141.000"
+        ],
+        "color": "rgb(23, 182, 21)"
+    },
+    {
+        "name": "Foxtail Palm",
+        "size": "3",
+        "latlng": [
+            "797.714",
+            "171.875"
+        ],
+        "color": "rgb(15, 239, 20)"
+    },
+    {
+        "name": "Foxtail Palm",
+        "size": "3",
+        "latlng": [
+            "799.340",
+            "156.500"
+        ],
+        "color": "rgb(16, 204, 18)"
+    },
+    {
+        "name": "Foxtail Palm",
+        "size": "3",
+        "latlng": [
+            "795.338",
+            "187.500"
+        ],
+        "color": "rgb(21, 179, 21)"
+    },
+    {
+        "name": "Foxtail Palm",
+        "size": "3",
+        "latlng": [
+            "801.466",
+            "143.125"
+        ],
+        "color": "rgb(15, 185, 27)"
+    },
+    {
+        "name": "Foxtail Palm",
+        "size": "3",
+        "latlng": [
+            "801.216",
+            "143.000"
+        ],
+        "color": "rgb(1, 253, 5)"
+    },
+    {
+        "name": "Foxtail Palm",
+        "size": "3",
+        "latlng": [
+            "800.216",
+            "149.875"
+        ],
+        "color": "rgb(9, 240, 6)"
+    },
+    {
+        "name": "Foxtail Palm",
+        "size": "3",
+        "latlng": [
+            "798.468",
+            "164.375"
+        ],
+        "color": "rgb(29, 175, 25)"
+    },
+    {
+        "name": "Foxtail Palm",
+        "size": "3",
+        "latlng": [
+            "796.591",
+            "178.500"
+        ],
+        "color": "rgb(12, 118, 25)"
+    },
+    {
+        "name": "Foxtail Palm",
+        "size": "3",
+        "latlng": [
+            "795.216",
+            "182.875"
+        ],
+        "color": "rgb(50, 213, 48)"
+    },
+    {
+        "name": "Foxtail Palm",
+        "size": "3",
+        "latlng": [
+            "798.593",
+            "166.500"
+        ],
+        "color": "rgb(25, 143, 46)"
+    },
+    {
+        "name": "Foxtail Palm",
+        "size": "3",
+        "latlng": [
+            "800.986",
+            "152.625"
+        ],
+        "color": "rgb(13, 169, 6)"
+    },
+    {
+        "name": "False Ashoka",
+        "size": 2.5,
+        "latlng": [
+            "774.428",
+            "219.000"
+        ],
+        "color": "rgb(18, 131, 40)"
+    },
+    {
+        "name": "False Ashoka",
+        "size": 2.5,
+        "latlng": [
+            "760.670",
+            "219.000"
+        ],
+        "color": "rgb(14, 238, 34)"
+    },
+    {
+        "name": "False Ashoka",
+        "size": 2.5,
+        "latlng": [
+            "749.914",
+            "218.750"
+        ],
+        "color": "rgb(34, 107, 31)"
+    },
+    {
+        "name": "False Ashoka",
+        "size": 2.5,
+        "latlng": [
+            "784.467",
+            "218.875"
+        ],
+        "color": "rgb(42, 250, 47)"
+    },
+    {
+        "name": "False Ashoka",
+        "size": 2.5,
+        "latlng": [
+            "770.834",
+            "218.375"
+        ],
+        "color": "rgb(14, 240, 49)"
+    },
+    {
+        "name": "False Ashoka",
+        "size": 2.5,
+        "latlng": [
+            "756.952",
+            "218.500"
+        ],
+        "color": "rgb(42, 216, 34)"
+    },
+    {
+        "name": "False Ashoka",
+        "size": 2.5,
+        "latlng": [
+            "740.568",
+            "218.375"
+        ],
+        "color": "rgb(30, 113, 39)"
+    },
+    {
+        "name": "False Ashoka",
+        "size": 2.5,
+        "latlng": [
+            "734.940",
+            "217.750"
+        ],
+        "color": "rgb(43, 105, 46)"
+    },
+    {
+        "name": "False Ashoka",
+        "size": 2.5,
+        "latlng": [
+            "725.804",
+            "217.500"
+        ],
+        "color": "rgb(32, 113, 37)"
+    },
+    {
+        "name": "False Ashoka",
+        "size": 2.5,
+        "latlng": [
+            "662.563",
+            "217.500"
+        ],
+        "color": "rgb(6, 108, 49)"
+    },
+    {
+        "name": "False Ashoka",
+        "size": 2.5,
+        "latlng": [
+            "681.323",
+            "216.750"
+        ],
+        "color": "rgb(24, 172, 31)"
+    },
+    {
+        "name": "False Ashoka",
+        "size": 2.5,
+        "latlng": [
+            "699.583",
+            "217.000"
+        ],
+        "color": "rgb(5, 118, 20)"
+    },
+    {
+        "name": "False Ashoka",
+        "size": 2.5,
+        "latlng": [
+            "634.047",
+            "216.500"
+        ],
+        "color": "rgb(19, 246, 45)"
+    },
+    {
+        "name": "Yellow Trumpet",
+        "size": "2",
+        "latlng": [
+            "896.513",
+            "222.500"
+        ],
+        "color": "yellow"
+    },
+    {
+        "name": "Cherry Blossoms",
+        "size": "2",
+        "latlng": [
+            "903.267",
+            "222.250"
+        ],
+        "color": "rgb(12, 198, 42)"
+    },
+    {
+        "name": "Bougainvillea",
+        "size": "2",
+        "latlng": [
+            "882.256",
+            "221.000"
+        ],
+        "color": "red"
+    },
+    {
+        "name": "Coconut Tree",
+        "size": "3",
+        "latlng": [
+            "439.190",
+            "205.750"
+        ],
+        "color": "rgb(30, 130, 76)"
+    },
+    {
+        "name": "False Ashoka",
+        "size": 2.5,
+        "latlng": [
+            "420.429",
+            "240.500"
+        ],
+        "color": "rgb(29, 171, 19)"
+    },
+    {
+        "name": "False Ashoka",
+        "size": 2.5,
+        "latlng": [
+            "420.179",
+            "308.500"
+        ],
+        "color": "rgb(35, 140, 39)"
+    },
+    {
+        "name": "False Ashoka",
+        "size": 2.5,
+        "latlng": [
+            "421.180",
+            "245.750"
+        ],
+        "color": "rgb(27, 122, 3)"
+    },
+    {
+        "name": "False Ashoka",
+        "size": 2.5,
+        "latlng": [
+            "422.180",
+            "304.000"
+        ],
+        "color": "rgb(2, 211, 4)"
+    },
+    {
+        "name": "False Ashoka",
+        "size": 2.5,
+        "latlng": [
+            "420.429",
+            "250.750"
+        ],
+        "color": "rgb(38, 167, 5)"
+    },
+    {
+        "name": "False Ashoka",
+        "size": 2.5,
+        "latlng": [
+            "419.429",
+            "291.250"
+        ],
+        "color": "rgb(26, 213, 17)"
+    },
+    {
+        "name": "False Ashoka",
+        "size": 2.5,
+        "latlng": [
+            "420.679",
+            "258.750"
+        ],
+        "color": "rgb(34, 118, 10)"
+    },
+    {
+        "name": "False Ashoka",
+        "size": 2.5,
+        "latlng": [
+            "420.679",
+            "268.000"
+        ],
+        "color": "rgb(30, 103, 25)"
+    },
+    {
+        "name": "False Ashoka",
+        "size": 2.5,
+        "latlng": [
+            "420.679",
+            "277.500"
+        ],
+        "color": "rgb(46, 174, 26)"
+    },
+    {
+        "name": "Jackfruit Tree",
+        "size": "3",
+        "latlng": [
+            "398.417",
+            "228.750"
+        ],
+        "color": "rgb(76, 187, 23)"
+    },
+    {
+        "name": "Coconut Tree",
+        "size": "3",
+        "latlng": [
+            "367.901",
+            "228.750"
+        ],
+        "color": "rgb(30, 130, 76)"
+    },
+    {
+        "name": "Coconut Tree",
+        "size": "3",
+        "latlng": [
+            "382.408",
+            "228.750"
+        ],
+        "color": "rgb(30, 130, 76)"
+    },
+    {
+        "name": "Coconut Tree",
+        "size": "3",
+        "latlng": [
+            "344.388",
+            "230.750"
+        ],
+        "color": "rgb(30, 130, 76)"
+    },
+    {
+        "name": "Coconut Tree",
+        "size": "3",
+        "latlng": [
+            "324.627",
+            "230.500"
+        ],
+        "color": "rgb(30, 130, 76)"
+    },
+    {
+        "name": "Coconut Tree",
+        "size": "3",
+        "latlng": [
+            "329.630",
+            "288.750"
+        ],
+        "color": "rgb(30, 130, 76)"
+    },
+    {
+        "name": "Coconut Tree",
+        "size": "3",
+        "latlng": [
+            "328.879",
+            "259.000"
+        ],
+        "color": "rgb(30, 130, 76)"
+    },
+    {
+        "name": "Coconut Tree",
+        "size": "3",
+        "latlng": [
+            "348.140",
+            "258.750"
+        ],
+        "color": "rgb(30, 130, 76)"
+    },
+    {
+        "name": "Coconut Tree",
+        "size": "3",
+        "latlng": [
+            "347.389",
+            "287.750"
+        ],
+        "color": "rgb(30, 130, 76)"
+    },
+    {
+        "name": "Coconut Tree",
+        "size": "3",
+        "latlng": [
+            "374.154",
+            "288.000"
+        ],
+        "color": "rgb(30, 130, 76)"
+    },
+    {
+        "name": "Coconut Tree",
+        "size": "3",
+        "latlng": [
+            "399.918",
+            "286.500"
+        ],
+        "color": "rgb(30, 130, 76)"
+    },
+    {
+        "name": "Coconut Tree",
+        "size": "3",
+        "latlng": [
+            "398.917",
+            "258.500"
+        ],
+        "color": "rgb(30, 130, 76)"
+    },
+    {
+        "name": "Cookpine",
+        "size": "3",
+        "latlng": [
+            "350.641",
+            "248.750"
+        ],
+        "color": "rgb(0, 128, 0)"
+    },
+    {
+        "name": "Cookpine",
+        "size": "3",
+        "latlng": [
+            "350.891",
+            "277.000"
+        ],
+        "color": "rgb(0, 128, 0)"
+    },
+    {
+        "name": "Cookpine",
+        "size": "3",
+        "latlng": [
+            "346.139",
+            "288.750"
+        ],
+        "color": "rgb(0, 128, 0)"
+    },
+    {
+        "name": "Cookpine",
+        "size": "3",
+        "latlng": [
+            "333.632",
+            "288.000"
+        ],
+        "color": "rgb(0, 128, 0)"
+    },
+    {
+        "name": "Cookpine",
+        "size": "3",
+        "latlng": [
+            "369.401",
+            "243.000"
+        ],
+        "color": "rgb(0, 128, 0)"
+    },
+    {
+        "name": "Cookpine",
+        "size": "3",
+        "latlng": [
+            "368.901",
+            "260.000"
+        ],
+        "color": "rgb(0, 128, 0)"
+    },
+    {
+        "name": "Cookpine",
+        "size": "3",
+        "latlng": [
+            "369.902",
+            "249.750"
+        ],
+        "color": "rgb(0, 128, 0)"
+    },
+    {
+        "name": "Bamboo",
+        "size": "1",
+        "latlng": [
+            "324.627",
+            "245.500"
+        ],
+        "color": "rgb(143, 188, 143)"
+    },
+    {
+        "name": "Bamboo",
+        "size": "1",
+        "latlng": [
+            "324.627",
+            "312.250"
+        ],
+        "color": "rgb(143, 188, 143)"
+    },
+    {
+        "name": "Bamboo",
+        "size": "1",
+        "latlng": [
+            "324.127",
+            "274.750"
+        ],
+        "color": "rgb(143, 188, 143)"
+    },
+    {
+        "name": "Bamboo",
+        "size": "1",
+        "latlng": [
+            "324.377",
+            "297.000"
+        ],
+        "color": "rgb(143, 188, 143)"
+    },
+    {
+        "name": "Bamboo",
+        "size": "1",
+        "latlng": [
+            "335.883",
+            "230.750"
+        ],
+        "color": "rgb(143, 188, 143)"
+    },
+    {
+        "name": "Bamboo",
+        "size": "1",
+        "latlng": [
+            "392.164",
+            "228.250"
+        ],
+        "color": "rgb(143, 188, 143)"
+    },
+    {
+        "name": "Bamboo",
+        "size": "1",
+        "latlng": [
+            "373.153",
+            "228.250"
+        ],
+        "color": "rgb(143, 188, 143)"
+    },
+    {
+        "name": "Bamboo",
+        "size": "1",
+        "latlng": [
+            "427.683",
+            "192.250"
+        ],
+        "color": "rgb(143, 188, 143)"
+    },
+    {
+        "name": "Bamboo",
+        "size": "1",
+        "latlng": [
+            "435.187",
+            "174.250"
+        ],
+        "color": "rgb(143, 188, 143)"
+    },
+    {
+        "name": "Bamboo",
+        "size": "1",
+        "latlng": [
+            "454.448",
+            "210.000"
+        ],
+        "color": "rgb(143, 188, 143)"
+    },
+    {
+        "name": "Bush",
+        "size": "1",
+        "latlng": [
+            "389.412",
+            "186.750"
+        ],
+        "color": "rgb(0,255,0)"
+    },
+    {
+        "name": "Bush",
+        "size": "1",
+        "latlng": [
+            "358.896",
+            "290.000"
+        ],
+        "color": "rgb(0,255,0)"
+    },
+    {
+        "name": "Bush",
+        "size": "1",
+        "latlng": [
+            "359.396",
+            "260.500"
+        ],
+        "color": "rgb(0,255,0)"
+    },
+    {
+        "name": "Bush",
+        "size": "1",
+        "latlng": [
+            "361.397",
+            "270.750"
+        ],
+        "color": "rgb(0,255,0)"
+    },
+    {
+        "name": "Bush",
+        "size": "1",
+        "latlng": [
+            "386.911",
+            "286.750"
+        ],
+        "color": "rgb(0,255,0)"
+    },
+    {
+        "name": "Bush",
+        "size": "1",
+        "latlng": [
+            "383.659",
+            "259.500"
+        ],
+        "color": "rgb(0,255,0)"
+    },
+    {
+        "name": "Bush",
+        "size": "1",
+        "latlng": [
+            "399.418",
+            "243.500"
+        ],
+        "color": "rgb(0,255,0)"
+    },
+    {
+        "name": "Bush",
+        "size": "1",
+        "latlng": [
+            "400.919",
+            "272.750"
+        ],
+        "color": "rgb(0,255,0)"
+    },
+    {
+        "name": "Foxtail Palm",
+        "size": "2",
+        "latlng": [
+            "124.517",
+            "128.250"
+        ],
+        "color": "rgb(19, 113, 23)"
+    },
+    {
+        "name": "Foxtail Palm",
+        "size": "2",
+        "latlng": [
+            "130.270",
+            "190.750"
+        ],
+        "color": "rgb(1, 164, 2)"
+    },
+    {
+        "name": "Foxtail Palm",
+        "size": "2",
+        "latlng": [
+            "124.267",
+            "139.500"
+        ],
+        "color": "rgb(0, 252, 36)"
+    },
+    {
+        "name": "Foxtail Palm",
+        "size": "2",
+        "latlng": [
+            "125.768",
+            "150.500"
+        ],
+        "color": "rgb(29, 189, 2)"
+    },
+    {
+        "name": "Foxtail Palm",
+        "size": "2",
+        "latlng": [
+            "126.518",
+            "160.750"
+        ],
+        "color": "rgb(17, 202, 15)"
+    },
+    {
+        "name": "Foxtail Palm",
+        "size": "2",
+        "latlng": [
+            "127.519",
+            "171.250"
+        ],
+        "color": "rgb(38, 238, 38)"
+    },
+    {
+        "name": "Foxtail Palm",
+        "size": "2",
+        "latlng": [
+            "128.769",
+            "181.250"
+        ],
+        "color": "rgb(15, 118, 26)"
+    },
+    {
+        "name": "Yellow Trumpet",
+        "size": "1",
+        "latlng": [
+            "304.116",
+            "202.500"
+        ],
+        "color": "yellow"
+    },
+    {
+        "name": "Yellow Trumpet",
+        "size": "1",
+        "latlng": [
+            "225.823",
+            "203.500"
+        ],
+        "color": "yellow"
+    },
+    {
+        "name": "Yellow Trumpet",
+        "size": "1",
+        "latlng": [
+            "262.593",
+            "203.500"
+        ],
+        "color": "yellow"
+    },
+    {
+        "name": "Yellow Trumpet",
+        "size": "1",
+        "latlng": [
+            "290.858",
+            "202.750"
+        ],
+        "color": "yellow"
+    },
+    {
+        "name": "Yellow Trumpet",
+        "size": "1",
+        "latlng": [
+            "275.850",
+            "202.750"
+        ],
+        "color": "yellow"
+    },
+    {
+        "name": "Yellow Trumpet",
+        "size": "1",
+        "latlng": [
+            "249.085",
+            "203.500"
+        ],
+        "color": "yellow"
+    },
+    {
+        "name": "Yellow Trumpet",
+        "size": "1",
+        "latlng": [
+            "237.079",
+            "203.500"
+        ],
+        "color": "yellow"
+    },
+    {
+        "name": "Yellow Trumpet",
+        "size": "1",
+        "latlng": [
+            "160.287",
+            "202.750"
+        ],
+        "color": "yellow"
+    },
+    {
+        "name": "Yellow Trumpet",
+        "size": "1",
+        "latlng": [
+            "149.531",
+            "202.750"
+        ],
+        "color": "yellow"
+    },
+    {
+        "name": "Yellow Trumpet",
+        "size": "1",
+        "latlng": [
+            "359.095",
+            "190.750"
+        ],
+        "color": "yellow"
+    },
+    {
+        "name": "Yellow Trumpet",
+        "size": "1",
+        "latlng": [
+            "368.600",
+            "189.750"
+        ],
+        "color": "yellow"
+    },
+    {
+        "name": "Yellow Trumpet",
+        "size": "1",
+        "latlng": [
+            "377.355",
+            "189.750"
+        ],
+        "color": "yellow"
+    },
+    {
+        "name": "Bush",
+        "size": "3",
+        "latlng": [
+            "214.379",
+            "247.000"
+        ],
+        "color": "rgb(0,255,0)"
+    },
+    {
+        "name": "Areca Palm",
+        "size": "3",
+        "latlng": [
+            "478.190",
+            "283.250"
+        ],
+        "color": "rgb(12, 106, 40)"
+    },
+    {
+        "name": "Areca Palm",
+        "size": "3",
+        "latlng": [
+            "426.912",
+            "202.500"
+        ],
+        "color": "rgb(18, 196, 32)"
+    },
+    {
+        "name": "Areca Palm",
+        "size": "2",
+        "latlng": [
+            "472.437",
+            "218.500"
+        ],
+        "color": "rgb(11, 193, 44)"
+    },
+    {
+        "name": "Areca Palm",
+        "size": "2",
+        "latlng": [
+            "491.197",
+            "217.750"
+        ],
+        "color": "rgb(38, 199, 36)"
+    },
+    {
+        "name": "Bush",
+        "size": "1",
+        "latlng": [
+            "508.707",
+            "217.750"
+        ],
+        "color": "rgb(0,255,0)"
+    },
+    {
+        "name": "False Ashoka",
+        "size": 2.5,
+        "latlng": [
+            "567.989",
+            "231.750"
+        ],
+        "color": "rgb(41, 232, 26)"
+    },
+    {
+        "name": "False Ashoka",
+        "size": 2.5,
+        "latlng": [
+            "473.437",
+            "231.750"
+        ],
+        "color": "rgb(1, 148, 13)"
+    },
+    {
+        "name": "False Ashoka",
+        "size": 2.5,
+        "latlng": [
+            "529.468",
+            "230.750"
+        ],
+        "color": "rgb(45, 255, 5)"
+    },
+    {
+        "name": "False Ashoka",
+        "size": 2.5,
+        "latlng": [
+            "517.461",
+            "230.750"
+        ],
+        "color": "rgb(26, 219, 20)"
+    },
+    {
+        "name": "False Ashoka",
+        "size": 2.5,
+        "latlng": [
+            "548.228",
+            "230.750"
+        ],
+        "color": "rgb(0, 211, 34)"
+    },
+    {
+        "name": "False Ashoka",
+        "size": 2.5,
+        "latlng": [
+            "557.233",
+            "231.000"
+        ],
+        "color": "rgb(8, 125, 20)"
+    },
+    {
+        "name": "False Ashoka",
+        "size": 2.5,
+        "latlng": [
+            "538.473",
+            "230.750"
+        ],
+        "color": "rgb(30, 217, 48)"
+    },
+    {
+        "name": "False Ashoka",
+        "size": 2.5,
+        "latlng": [
+            "494.699",
+            "231.000"
+        ],
+        "color": "rgb(17, 205, 47)"
+    },
+    {
+        "name": "False Ashoka",
+        "size": 2.5,
+        "latlng": [
+            "507.206",
+            "230.750"
+        ],
+        "color": "rgb(9, 151, 8)"
+    },
+    {
+        "name": "False Ashoka",
+        "size": 2.5,
+        "latlng": [
+            "484.443",
+            "230.000"
+        ],
+        "color": "rgb(43, 212, 50)"
+    },
+    {
+        "name": "Bush",
+        "size": "3",
+        "latlng": [
+            "523.215",
+            "231.250"
+        ],
+        "color": "rgb(0,255,0)"
+    },
+    {
+        "name": "Indian Almond",
+        "size": "3",
+        "latlng": [
+            "480.776",
+            "218.605"
+        ],
+        "color": "rgb(17, 107, 36)"
+    },
+    {
+        "name": "Peepal",
+        "size": "3",
+        "latlng": [
+            "499.641",
+            "218.105"
+        ],
+        "color": "rgb(4, 164, 31)"
+    },
+    {
+        "name": "Blue Trumpet Vine",
+        "size": "1",
+        "latlng": [
+            "591.764",
+            "212.731"
+        ],
+        "color": "blueviolet"
+    },
+    {
+        "name": "Wheeping Bottlebrush",
+        "size": "2",
+        "latlng": [
+            "598.897",
+            "257.732"
+        ],
+        "color": "rgb(29, 118, 34)"
+    },
+    {
+        "name": "Wheeping Bottlebrush",
+        "size": "2",
+        "latlng": [
+            "598.897",
+            "301.340"
+        ],
+        "color": "rgb(15, 134, 30)"
+    },
+    {
+        "name": "Wheeping Bottlebrush",
+        "size": "2",
+        "latlng": [
+            "598.523",
+            "275.850"
+        ],
+        "color": "rgb(32, 132, 38)"
+    },
+    {
+        "name": "Wheeping Bottlebrush",
+        "size": "2",
+        "latlng": [
+            "598.398",
+            "284.222"
+        ],
+        "color": "rgb(45, 249, 40)"
+    },
+    {
+        "name": "Wheeping Bottlebrush",
+        "size": "2",
+        "latlng": [
+            "598.148",
+            "291.219"
+        ],
+        "color": "rgb(41, 113, 44)"
+    },
+    {
+        "name": "Wheeping Bottlebrush",
+        "size": "2",
+        "latlng": [
+            "597.898",
+            "296.217"
+        ],
+        "color": "rgb(46, 148, 17)"
+    },
+    {
+        "name": "Wheeping Bottlebrush",
+        "size": "2",
+        "latlng": [
+            "598.398",
+            "264.479"
+        ],
+        "color": "rgb(6, 109, 34)"
+    },
+    {
+        "name": "Wheeping Bottlebrush",
+        "size": "2",
+        "latlng": [
+            "598.398",
+            "270.477"
+        ],
+        "color": "rgb(9, 162, 17)"
+    },
+    {
+        "name": "False Ashoka",
+        "size": 2.5,
+        "latlng": [
+            "644.002",
+            "270.355"
+        ],
+        "color": "rgb(50, 189, 33)"
+    },
+    {
+        "name": "False Ashoka",
+        "size": 2.5,
+        "latlng": [
+            "643.003",
+            "319.336"
+        ],
+        "color": "rgb(35, 124, 50)"
+    },
+    {
+        "name": "False Ashoka",
+        "size": 2.5,
+        "latlng": [
+            "642.753",
+            "295.970"
+        ],
+        "color": "rgb(50, 110, 17)"
+    },
+    {
+        "name": "False Ashoka",
+        "size": 2.5,
+        "latlng": [
+            "642.628",
+            "283.350"
+        ],
+        "color": "rgb(47, 154, 6)"
+    },
+    {
+        "name": "False Ashoka",
+        "size": 2.5,
+        "latlng": [
+            "642.503",
+            "308.091"
+        ],
+        "color": "rgb(29, 187, 17)"
+    },
+    {
+        "name": "False Ashoka",
+        "size": 2.5,
+        "latlng": [
+            "643.502",
+            "272.979"
+        ],
+        "color": "rgb(13, 228, 50)"
+    },
+    {
+        "name": "False Ashoka",
+        "size": 2.5,
+        "latlng": [
+            "643.377",
+            "279.601"
+        ],
+        "color": "rgb(3, 208, 8)"
+    },
+    {
+        "name": "False Ashoka",
+        "size": 2.5,
+        "latlng": [
+            "643.377",
+            "287.473"
+        ],
+        "color": "rgb(36, 216, 45)"
+    },
+    {
+        "name": "False Ashoka",
+        "size": 2.5,
+        "latlng": [
+            "643.127",
+            "293.221"
+        ],
+        "color": "rgb(44, 121, 49)"
+    },
+    {
+        "name": "False Ashoka",
+        "size": 2.5,
+        "latlng": [
+            "643.252",
+            "299.469"
+        ],
+        "color": "rgb(36, 252, 27)"
+    },
+    {
+        "name": "False Ashoka",
+        "size": 2.5,
+        "latlng": [
+            "643.003",
+            "303.967"
+        ],
+        "color": "rgb(6, 252, 49)"
+    },
+    {
+        "name": "False Ashoka",
+        "size": 2.5,
+        "latlng": [
+            "642.878",
+            "310.839"
+        ],
+        "color": "rgb(46, 214, 13)"
+    },
+    {
+        "name": "False Ashoka",
+        "size": 2.5,
+        "latlng": [
+            "643.127",
+            "315.713"
+        ],
+        "color": "rgb(27, 108, 49)"
+    },
+    {
+        "name": "Divi Divi",
+        "size": "2",
+        "latlng": [
+            "632.851",
+            "263.250"
+        ],
+        "color": "rgb(46, 139, 87)"
+    },
+    {
+        "name": "Divi Divi",
+        "size": "2",
+        "latlng": [
+            "632.851",
+            "280.875"
+        ],
+        "color": "rgb(46, 139, 87)"
+    },
+    {
+        "name": "Divi Divi",
+        "size": "2",
+        "latlng": [
+            "632.726",
+            "293.750"
+        ],
+        "color": "rgb(46, 139, 87)"
+    },
+    {
+        "name": "Jamaican Cherry",
+        "size": "3",
+        "latlng": [
+            "632.726",
+            "317.625"
+        ],
+        "color": "rgb(39, 225, 15)"
+    },
+    {
+        "name": "Tree of Heaven",
+        "size": "2",
+        "latlng": [
+            "636.728",
+            "239.125"
+        ],
+        "color": "rgb(25, 214, 16)"
+    },
+    {
+        "name": "African tulip tree",
+        "size": "2",
+        "latlng": [
+            "804.973",
+            "218.000"
+        ],
+        "color": "rgb(1, 149, 41)"
+    },
+    {
+        "name": "Guava tree",
+        "size": "2",
+        "latlng": [
+            "809.225",
+            "292.875"
+        ],
+        "color": "rgb(23, 239, 42)"
+    },
+    {
+        "name": "Weeping Fig",
+        "size": "3",
+        "latlng": [
+            "793.602",
+            "292.375"
+        ],
+        "color": "rgb(0, 167, 15)"
+    },
+    {
+        "name": "Fig",
+        "size": "3",
+        "latlng": [
+            "700.703",
+            "275.000"
+        ],
+        "color": "rgb(29, 203, 41)"
+    },
+    {
+        "name": "She-oak",
+        "size": "1",
+        "latlng": [
+            "718.712",
+            "277.750"
+        ],
+        "color": "rgb(23, 180, 7)"
+    },
+    {
+        "name": "Indian Almond",
+        "size": "4",
+        "latlng": [
+            "651.926",
+            "239.750"
+        ],
+        "color": "rgb(46, 144, 18)"
+    },
+    {
+        "name": "Ravenala",
+        "size": "1",
+        "latlng": [
+            "708.707",
+            "246.750"
+        ],
+        "color": "rgb(17, 162, 25)"
+    },
+    {
+        "name": "Ravenala",
+        "size": "1",
+        "latlng": [
+            "709.207",
+            "255.750"
+        ],
+        "color": "rgb(37, 139, 25)"
+    },
+    {
+        "name": "Ravenala",
+        "size": "1",
+        "latlng": [
+            "711.709",
+            "264.250"
+        ],
+        "color": "rgb(17, 153, 15)"
+    },
+    {
+        "name": "Champaka",
+        "size": "2",
+        "latlng": [
+            "701.953",
+            "239.000"
+        ],
+        "color": "rgb(22, 204, 24)"
+    },
+    {
+        "name": "Copperpod",
+        "size": "3",
+        "latlng": [
+            "666.434",
+            "239.750"
+        ],
+        "color": "rgb(7, 105, 33)"
+    },
+    {
+        "name": "Pink Blossoms",
+        "size": "3",
+        "latlng": [
+            "684.944",
+            "238.250"
+        ],
+        "color": "palevioletred"
+    },
+    {
+        "name": "Indian Almond",
+        "size": "4",
+        "latlng": [
+            "683.693",
+            "255.250"
+        ],
+        "color": "rgb(40, 200, 37)"
+    },
+    {
+        "name": "Indian Almond",
+        "size": "4",
+        "latlng": [
+            "705.955",
+            "261.250"
+        ],
+        "color": "rgb(33, 202, 47)"
+    },
+    {
+        "name": "Coconut Tree",
+        "size": "3",
+        "latlng": [
+            "695.700",
+            "260.250"
+        ],
+        "color": "rgb(30, 130, 76)"
+    },
+    {
+        "name": "Coconut Tree",
+        "size": "3",
+        "latlng": [
+            "879.943",
+            "258.000"
+        ],
+        "color": "rgb(30, 130, 76)"
+    },
+    {
+        "name": "Bougainvillea",
+        "size": "3",
+        "latlng": [
+            "952.982",
+            "292.250"
+        ],
+        "color": "red"
+    },
+    {
+        "name": "Bougainvillea",
+        "size": "3",
+        "latlng": [
+            "954.357",
+            "274.875"
+        ],
+        "color": "red"
+    },
+    {
+        "name": "Bougainvillea",
+        "size": "3",
+        "latlng": [
+            "955.858",
+            "258.625"
+        ],
+        "color": "red"
+    },
+    {
+        "name": "Peace Lilly",
+        "size": "1",
+        "latlng": [
+            "967.360",
+            "195.375"
+        ],
+        "color": "white"
+    },
+    {
+        "name": "Peace Lilly",
+        "size": "1",
+        "latlng": [
+            "967.485",
+            "190.375"
+        ],
+        "color": "white"
+    },
+    {
+        "name": "Peace Lilly",
+        "size": "1",
+        "latlng": [
+            "968.111",
+            "186.625"
+        ],
+        "color": "white"
+    },
+    {
+        "name": "Peace Lilly",
+        "size": "1",
+        "latlng": [
+            "969.111",
+            "182.625"
+        ],
+        "color": "white"
+    },
+    {
+        "name": "Peace Lilly",
+        "size": "1",
+        "latlng": [
+            "970.237",
+            "179.375"
+        ],
+        "color": "white"
+    },
+    {
+        "name": "Peace Lilly",
+        "size": "1",
+        "latlng": [
+            "970.237",
+            "175.500"
+        ],
+        "color": "white"
+    },
+    {
+        "name": "Peace Lilly",
+        "size": "1",
+        "latlng": [
+            "970.737",
+            "172.500"
+        ],
+        "color": "white"
+    },
+    {
+        "name": "Peace Lilly",
+        "size": "1",
+        "latlng": [
+            "970.112",
+            "169.500"
+        ],
+        "color": "white"
+    },
+    {
+        "name": "Peace Lilly",
+        "size": "1",
+        "latlng": [
+            "971.112",
+            "166.750"
+        ],
+        "color": "white"
+    },
+    {
+        "name": "Peace Lilly",
+        "size": "1",
+        "latlng": [
+            "973.239",
+            "169.375"
+        ],
+        "color": "white"
+    },
+    {
+        "name": "Peace Lilly",
+        "size": "1",
+        "latlng": [
+            "970.737",
+            "186.250"
+        ],
+        "color": "white"
+    },
+    {
+        "name": "Peace Lilly",
+        "size": "1",
+        "latlng": [
+            "966.860",
+            "178.750"
+        ],
+        "color": "white"
+    },
+    {
+        "name": "Peace Lilly",
+        "size": "1",
+        "latlng": [
+            "971.988",
+            "182.875"
+        ],
+        "color": "white"
+    },
+    {
+        "name": "Peace Lilly",
+        "size": "1",
+        "latlng": [
+            "972.613",
+            "174.750"
+        ],
+        "color": "white"
+    },
+    {
+        "name": "Peace Lilly",
+        "size": "1",
+        "latlng": [
+            "973.114",
+            "171.875"
+        ],
+        "color": "white"
+    },
+    {
+        "name": "Peace Lilly",
+        "size": "1",
+        "latlng": [
+            "972.363",
+            "178.250"
+        ],
+        "color": "white"
+    },
+    {
+        "name": "Peace Lilly",
+        "size": "1",
+        "latlng": [
+            "971.238",
+            "180.375"
+        ],
+        "color": "white"
+    },
+    {
+        "name": "Peace Lilly",
+        "size": "1",
+        "latlng": [
+            "967.986",
+            "192.875"
+        ],
+        "color": "white"
+    },
+    {
+        "name": "Peace Lilly",
+        "size": "1",
+        "latlng": [
+            "970.362",
+            "189.875"
+        ],
+        "color": "white"
+    },
+    {
+        "name": "Peace Lilly",
+        "size": "1",
+        "latlng": [
+            "969.612",
+            "195.000"
+        ],
+        "color": "white"
+    },
+    {
+        "name": "Copperpod",
+        "size": "3",
+        "latlng": [
+            "970.351",
+            "192.000"
+        ],
+        "color": "rgb(48, 130, 20)"
+    },
+    {
+        "name": "Bamboo",
+        "size": "3",
+        "latlng": [
+            "987.702",
+            "244.750"
+        ],
+        "color": "rgb(143, 188, 143)"
+    },
+    {
+        "name": "Bamboo",
+        "size": "3",
+        "latlng": [
+            "1000.709",
+            "245.500"
+        ],
+        "color": "rgb(143, 188, 143)"
+    },
+    {
+        "name": "Bamboo",
+        "size": "3",
+        "latlng": [
+            "994.455",
+            "244.250"
+        ],
+        "color": "rgb(143, 188, 143)"
+    },
+    {
+        "name": "Bamboo",
+        "size": "3",
+        "latlng": [
+            "1024.222",
+            "245.750"
+        ],
+        "color": "rgb(143, 188, 143)"
+    },
+    {
+        "name": "Bamboo",
+        "size": "3",
+        "latlng": [
+            "1044.733",
+            "245.750"
+        ],
+        "color": "rgb(143, 188, 143)"
+    },
+    {
+        "name": "Bamboo",
+        "size": "3",
+        "latlng": [
+            "1062.243",
+            "245.750"
+        ],
+        "color": "rgb(143, 188, 143)"
+    },
+    {
+        "name": "Bamboo",
+        "size": "3",
+        "latlng": [
+            "1079.502",
+            "246.500"
+        ],
+        "color": "rgb(143, 188, 143)"
+    },
+    {
+        "name": "Bamboo",
+        "size": "3",
+        "latlng": [
+            "1074.749",
+            "245.500"
+        ],
+        "color": "rgb(143, 188, 143)"
+    },
+    {
+        "name": "Bamboo",
+        "size": "3",
+        "latlng": [
+            "1068.496",
+            "245.750"
+        ],
+        "color": "rgb(143, 188, 143)"
+    },
+    {
+        "name": "Bamboo",
+        "size": "3",
+        "latlng": [
+            "1029.725",
+            "246.250"
+        ],
+        "color": "rgb(143, 188, 143)"
+    },
+    {
+        "name": "Bamboo",
+        "size": "3",
+        "latlng": [
+            "1054.238",
+            "245.750"
+        ],
+        "color": "rgb(143, 188, 143)"
+    },
+    {
+        "name": "Bamboo",
+        "size": "3",
+        "latlng": [
+            "1039.980",
+            "245.000"
+        ],
+        "color": "rgb(143, 188, 143)"
+    },
+    {
+        "name": "Bamboo",
+        "size": "3",
+        "latlng": [
+            "1017.468",
+            "245.000"
+        ],
+        "color": "rgb(143, 188, 143)"
+    },
+    {
+        "name": "Bamboo",
+        "size": "3",
+        "latlng": [
+            "1008.713",
+            "245.750"
+        ],
+        "color": "rgb(143, 188, 143)"
+    },
+    {
+        "name": "Bamboo",
+        "size": "3",
+        "latlng": [
+            "1157.795",
+            "246.500"
+        ],
+        "color": "rgb(143, 188, 143)"
+    },
+    {
+        "name": "Bamboo",
+        "size": "3",
+        "latlng": [
+            "1157.795",
+            "249.750"
+        ],
+        "color": "rgb(143, 188, 143)"
+    },
+    {
+        "name": "Bamboo",
+        "size": "3",
+        "latlng": [
+            "1149.290",
+            "249.000"
+        ],
+        "color": "rgb(143, 188, 143)"
+    },
+    {
+        "name": "Bamboo",
+        "size": "3",
+        "latlng": [
+            "1141.786",
+            "247.000"
+        ],
+        "color": "rgb(143, 188, 143)"
+    },
+    {
+        "name": "Bamboo",
+        "size": "3",
+        "latlng": [
+            "1144.788",
+            "250.000"
+        ],
+        "color": "rgb(143, 188, 143)"
+    },
+    {
+        "name": "Bamboo",
+        "size": "3",
+        "latlng": [
+            "1132.781",
+            "246.500"
+        ],
+        "color": "rgb(143, 188, 143)"
+    },
+    {
+        "name": "Bamboo",
+        "size": "3",
+        "latlng": [
+            "1116.522",
+            "246.000"
+        ],
+        "color": "rgb(143, 188, 143)"
+    },
+    {
+        "name": "Bamboo",
+        "size": "3",
+        "latlng": [
+            "1124.777",
+            "249.250"
+        ],
+        "color": "rgb(143, 188, 143)"
+    },
+    {
+        "name": "Bamboo",
+        "size": "3",
+        "latlng": [
+            "1134.282",
+            "248.000"
+        ],
+        "color": "rgb(143, 188, 143)"
+    },
+    {
+        "name": "Bamboo",
+        "size": "3",
+        "latlng": [
+            "1114.521",
+            "248.000"
+        ],
+        "color": "rgb(143, 188, 143)"
+    },
+    {
+        "name": "Bamboo",
+        "size": "3",
+        "latlng": [
+            "1104.516",
+            "247.250"
+        ],
+        "color": "rgb(143, 188, 143)"
+    },
+    {
+        "name": "Bamboo",
+        "size": "3",
+        "latlng": [
+            "1102.765",
+            "249.000"
+        ],
+        "color": "rgb(143, 188, 143)"
+    },
+    {
+        "name": "Bamboo",
+        "size": "3",
+        "latlng": [
+            "1090.758",
+            "247.250"
+        ],
+        "color": "rgb(143, 188, 143)"
+    },
+    {
+        "name": "Bamboo",
+        "size": "3",
+        "latlng": [
+            "1097.262",
+            "245.750"
+        ],
+        "color": "rgb(143, 188, 143)"
+    },
+    {
+        "name": "Bamboo",
+        "size": "3",
+        "latlng": [
+            "1088.257",
+            "247.500"
+        ],
+        "color": "rgb(143, 188, 143)"
+    },
+    {
+        "name": "Bamboo",
+        "size": "3",
+        "latlng": [
+            "1056.740",
+            "247.000"
+        ],
+        "color": "rgb(143, 188, 143)"
+    },
+    {
+        "name": "Bamboo",
+        "size": "3",
+        "latlng": [
+            "1035.478",
+            "246.250"
+        ],
+        "color": "rgb(143, 188, 143)"
+    },
+    {
+        "name": "Bush",
+        "size": "1",
+        "latlng": [
+            "786.489",
+            "165.375"
+        ],
+        "color": "rgb(0,255,0)"
+    },
+    {
+        "name": "Bush",
+        "size": "1",
+        "latlng": [
+            "782.862",
+            "165.000"
+        ],
+        "color": "rgb(0,255,0)"
+    },
+    {
+        "name": "Bush",
+        "size": "1",
+        "latlng": [
+            "778.234",
+            "164.625"
+        ],
+        "color": "rgb(0,255,0)"
+    },
+    {
+        "name": "Bush",
+        "size": "1",
+        "latlng": [
+            "774.982",
+            "164.500"
+        ],
+        "color": "rgb(0,255,0)"
+    },
+    {
+        "name": "Bush",
+        "size": "1",
+        "latlng": [
+            "770.480",
+            "164.375"
+        ],
+        "color": "rgb(0,255,0)"
+    },
+    {
+        "name": "Bush",
+        "size": "1",
+        "latlng": [
+            "766.103",
+            "164.000"
+        ],
+        "color": "rgb(0,255,0)"
+    },
+    {
+        "name": "Bush",
+        "size": "1",
+        "latlng": [
+            "761.975",
+            "164.125"
+        ],
+        "color": "rgb(0,255,0)"
+    },
+    {
+        "name": "Bush",
+        "size": "1",
+        "latlng": [
+            "757.848",
+            "163.625"
+        ],
+        "color": "rgb(0,255,0)"
+    },
+    {
+        "name": "Bush",
+        "size": "1",
+        "latlng": [
+            "753.846",
+            "163.500"
+        ],
+        "color": "rgb(0,255,0)"
+    },
+    {
+        "name": "Bush",
+        "size": "1",
+        "latlng": [
+            "749.594",
+            "163.125"
+        ],
+        "color": "rgb(0,255,0)"
+    },
+    {
+        "name": "Bush",
+        "size": "1",
+        "latlng": [
+            "744.966",
+            "163.125"
+        ],
+        "color": "rgb(0,255,0)"
+    },
+    {
+        "name": "Bush",
+        "size": "1",
+        "latlng": [
+            "567.941",
+            "215.250"
+        ],
+        "color": "rgb(0,255,0)"
+    },
+    {
+        "name": "Bush",
+        "size": "1",
+        "latlng": [
+            "547.429",
+            "217.750"
+        ],
+        "color": "rgb(0,255,0)"
+    },
+    {
+        "name": "Bush",
+        "size": "1",
+        "latlng": [
+            "397.847",
+            "236.750"
+        ],
+        "color": "rgb(0,255,0)"
+    },
+    {
+        "name": "Bush",
+        "size": "1",
+        "latlng": [
+            "398.348",
+            "240.000"
+        ],
+        "color": "rgb(0,255,0)"
+    },
+    {
+        "name": "Bush",
+        "size": "1",
+        "latlng": [
+            "399.275",
+            "247.063"
+        ],
+        "color": "rgb(0,255,0)"
+    },
+    {
+        "name": "Bush",
+        "size": "1",
+        "latlng": [
+            "398.962",
+            "250.625"
+        ],
+        "color": "rgb(0,255,0)"
+    },
+    {
+        "name": "Bush",
+        "size": "1",
+        "latlng": [
+            "400.088",
+            "265.813"
+        ],
+        "color": "rgb(0,255,0)"
+    },
+    {
+        "name": "Bush",
+        "size": "1",
+        "latlng": [
+            "400.213",
+            "269.375"
+        ],
+        "color": "rgb(0,255,0)"
+    },
+    {
+        "name": "Bush",
+        "size": "1",
+        "latlng": [
+            "400.900",
+            "276.375"
+        ],
+        "color": "rgb(0,255,0)"
+    },
+    {
+        "name": "Bush",
+        "size": "1",
+        "latlng": [
+            "400.900",
+            "279.313"
+        ],
+        "color": "rgb(0,255,0)"
+    },
+    {
+        "name": "Bush",
+        "size": "1",
+        "latlng": [
+            "392.083",
+            "286.688"
+        ],
+        "color": "rgb(0,255,0)"
+    },
+    {
+        "name": "Bush",
+        "size": "1",
+        "latlng": [
+            "389.269",
+            "286.688"
+        ],
+        "color": "rgb(0,255,0)"
+    },
+    {
+        "name": "Bush",
+        "size": "1",
+        "latlng": [
+            "384.016",
+            "286.750"
+        ],
+        "color": "rgb(0,255,0)"
+    },
+    {
+        "name": "Bush",
+        "size": "1",
+        "latlng": [
+            "380.889",
+            "287.000"
+        ],
+        "color": "rgb(0,255,0)"
+    },
+    {
+        "name": "Bush",
+        "size": "1",
+        "latlng": [
+            "391.708",
+            "259.188"
+        ],
+        "color": "rgb(0,255,0)"
+    },
+    {
+        "name": "Bush",
+        "size": "1",
+        "latlng": [
+            "387.831",
+            "259.438"
+        ],
+        "color": "rgb(0,255,0)"
+    },
+    {
+        "name": "Bush",
+        "size": "1",
+        "latlng": [
+            "379.201",
+            "259.750"
+        ],
+        "color": "rgb(0,255,0)"
+    },
+    {
+        "name": "Bush",
+        "size": "1",
+        "latlng": [
+            "375.574",
+            "259.813"
+        ],
+        "color": "rgb(0,255,0)"
+    },
+    {
+        "name": "Bush",
+        "size": "1",
+        "latlng": [
+            "389.117",
+            "228.313"
+        ],
+        "color": "rgb(0,255,0)"
+    },
+    {
+        "name": "Bush",
+        "size": "1",
+        "latlng": [
+            "375.672",
+            "228.063"
+        ],
+        "color": "rgb(0,255,0)"
+    },
+    {
+        "name": "Bush",
+        "size": "1",
+        "latlng": [
+            "359.350",
+            "263.250"
+        ],
+        "color": "rgb(0,255,0)"
+    },
+    {
+        "name": "Bush",
+        "size": "1",
+        "latlng": [
+            "358.975",
+            "266.813"
+        ],
+        "color": "rgb(0,255,0)"
+    },
+    {
+        "name": "Bush",
+        "size": "1",
+        "latlng": [
+            "358.975",
+            "269.813"
+        ],
+        "color": "rgb(0,255,0)"
+    },
+    {
+        "name": "Bush",
+        "size": "1",
+        "latlng": [
+            "358.850",
+            "272.813"
+        ],
+        "color": "rgb(0,255,0)"
+    },
+    {
+        "name": "Bush",
+        "size": "1",
+        "latlng": [
+            "359.100",
+            "275.875"
+        ],
+        "color": "rgb(0,255,0)"
+    },
+    {
+        "name": "Bush",
+        "size": "1",
+        "latlng": [
+            "359.038",
+            "278.563"
+        ],
+        "color": "rgb(0,255,0)"
+    },
+    {
+        "name": "Bush",
+        "size": "1",
+        "latlng": [
+            "359.163",
+            "281.813"
+        ],
+        "color": "rgb(0,255,0)"
+    },
+    {
+        "name": "Bush",
+        "size": "1",
+        "latlng": [
+            "359.163",
+            "285.875"
+        ],
+        "color": "rgb(0,255,0)"
+    },
+    {
+        "name": "Bush",
+        "size": "1",
+        "latlng": [
+            "351.671",
+            "283.250"
+        ],
+        "color": "rgb(0,255,0)"
+    },
+    {
+        "name": "Bush",
+        "size": "1",
+        "latlng": [
+            "332.223",
+            "230.438"
+        ],
+        "color": "rgb(0,255,0)"
+    },
+    {
+        "name": "Bush",
+        "size": "1",
+        "latlng": [
+            "340.415",
+            "258.438"
+        ],
+        "color": "rgb(0,255,0)"
+    },
+    {
+        "name": "Bush",
+        "size": "1",
+        "latlng": [
+            "336.600",
+            "258.563"
+        ],
+        "color": "rgb(0,255,0)"
+    },
+    {
+        "name": "Bush",
+        "size": "1",
+        "latlng": [
+            "328.095",
+            "265.750"
+        ],
+        "color": "rgb(0,255,0)"
+    },
+    {
+        "name": "Bush",
+        "size": "1",
+        "latlng": [
+            "327.970",
+            "269.500"
+        ],
+        "color": "rgb(0,255,0)"
+    },
+    {
+        "name": "Bush",
+        "size": "1",
+        "latlng": [
+            "328.220",
+            "273.188"
+        ],
+        "color": "rgb(0,255,0)"
+    },
+    {
+        "name": "Bush",
+        "size": "1",
+        "latlng": [
+            "327.908",
+            "276.813"
+        ],
+        "color": "rgb(0,255,0)"
+    },
+    {
+        "name": "Bush",
+        "size": "1",
+        "latlng": [
+            "327.783",
+            "280.250"
+        ],
+        "color": "rgb(0,255,0)"
+    },
+    {
+        "name": "Bush",
+        "size": "1",
+        "latlng": [
+            "323.671",
+            "238.000"
+        ],
+        "color": "rgb(0,255,0)"
+    },
+    {
+        "name": "Bush",
+        "size": "1",
+        "latlng": [
+            "323.733",
+            "242.063"
+        ],
+        "color": "rgb(0,255,0)"
+    },
+    {
+        "name": "Bush",
+        "size": "1",
+        "latlng": [
+            "388.853",
+            "190.875"
+        ],
+        "color": "rgb(0,255,0)"
+    },
+    {
+        "name": "Bush",
+        "size": "1",
+        "latlng": [
+            "388.853",
+            "182.500"
+        ],
+        "color": "rgb(0,255,0)"
+    },
+    {
+        "name": "Bamboo",
+        "size": "3",
+        "latlng": [
+            "600.085",
+            "324.375"
+        ],
+        "color": "rgb(143, 188, 143)"
+    },
+    {
+        "name": "Bamboo",
+        "size": "3",
+        "latlng": [
+            "609.966",
+            "323.500"
+        ],
+        "color": "rgb(143, 188, 143)"
+    },
+    {
+        "name": "Bamboo",
+        "size": "3",
+        "latlng": [
+            "611.716",
+            "314.625"
+        ],
+        "color": "rgb(143, 188, 143)"
+    },
+    {
+        "name": "Bamboo",
+        "size": "3",
+        "latlng": [
+            "600.585",
+            "314.250"
+        ],
+        "color": "rgb(143, 188, 143)"
+    },
+    {
+        "name": "Bamboo",
+        "size": "3",
+        "latlng": [
+            "605.588",
+            "318.625"
+        ],
+        "color": "rgb(143, 188, 143)"
+    },
+    {
+        "name": "Bamboo",
+        "size": "3",
+        "latlng": [
+            "616.719",
+            "318.875"
+        ],
+        "color": "rgb(143, 188, 143)"
+    },
+    {
+        "name": "Bamboo",
+        "size": "3",
+        "latlng": [
+            "606.213",
+            "309.500"
+        ],
+        "color": "rgb(143, 188, 143)"
+    },
+    {
+        "name": "Bamboo",
+        "size": "1",
+        "latlng": [
+            "737.204",
+            "204.625"
+        ],
+        "color": "rgb(143, 188, 143)"
+    },
+    {
+        "name": "Bamboo",
+        "size": "1",
+        "latlng": [
+            "741.582",
+            "205.125"
+        ],
+        "color": "rgb(143, 188, 143)"
+    },
+    {
+        "name": "Bamboo",
+        "size": "1",
+        "latlng": [
+            "745.959",
+            "205.500"
+        ],
+        "color": "rgb(143, 188, 143)"
+    },
+    {
+        "name": "Bamboo",
+        "size": "1",
+        "latlng": [
+            "751.087",
+            "205.125"
+        ],
+        "color": "rgb(143, 188, 143)"
+    },
+    {
+        "name": "Bamboo",
+        "size": "1",
+        "latlng": [
+            "754.589",
+            "205.375"
+        ],
+        "color": "rgb(143, 188, 143)"
+    },
+    {
+        "name": "Bamboo",
+        "size": "1",
+        "latlng": [
+            "758.716",
+            "206.000"
+        ],
+        "color": "rgb(143, 188, 143)"
+    },
+    {
+        "name": "Bamboo",
+        "size": "1",
+        "latlng": [
+            "763.469",
+            "206.125"
+        ],
+        "color": "rgb(143, 188, 143)"
+    },
+    {
+        "name": "Bamboo",
+        "size": "1",
+        "latlng": [
+            "767.471",
+            "206.375"
+        ],
+        "color": "rgb(143, 188, 143)"
+    },
+    {
+        "name": "Bamboo",
+        "size": "1",
+        "latlng": [
+            "771.723",
+            "206.500"
+        ],
+        "color": "rgb(143, 188, 143)"
+    },
+    {
+        "name": "Bamboo",
+        "size": "1",
+        "latlng": [
+            "775.225",
+            "206.375"
+        ],
+        "color": "rgb(143, 188, 143)"
+    },
+    {
+        "name": "Bamboo",
+        "size": "1",
+        "latlng": [
+            "779.477",
+            "206.500"
+        ],
+        "color": "rgb(143, 188, 143)"
+    },
+    {
+        "name": "Bamboo",
+        "size": "1",
+        "latlng": [
+            "783.480",
+            "207.125"
+        ],
+        "color": "rgb(143, 188, 143)"
+    },
+    {
+        "name": "Bamboo",
+        "size": "1",
+        "latlng": [
+            "786.856",
+            "207.375"
+        ],
+        "color": "rgb(143, 188, 143)"
+    },
+    {
+        "name": "Bamboo",
+        "size": "1",
+        "latlng": [
+            "786.231",
+            "210.375"
+        ],
+        "color": "rgb(143, 188, 143)"
+    },
+    {
+        "name": "Bamboo",
+        "size": "1",
+        "latlng": [
+            "786.356",
+            "212.875"
+        ],
+        "color": "rgb(143, 188, 143)"
+    },
+    {
+        "name": "Bamboo",
+        "size": "1",
+        "latlng": [
+            "781.854",
+            "210.875"
+        ],
+        "color": "rgb(143, 188, 143)"
+    },
+    {
+        "name": "Bamboo",
+        "size": "1",
+        "latlng": [
+            "778.602",
+            "209.625"
+        ],
+        "color": "rgb(143, 188, 143)"
+    },
+    {
+        "name": "Bamboo",
+        "size": "1",
+        "latlng": [
+            "778.602",
+            "212.875"
+        ],
+        "color": "rgb(143, 188, 143)"
+    },
+    {
+        "name": "Bamboo",
+        "size": "1",
+        "latlng": [
+            "774.350",
+            "210.125"
+        ],
+        "color": "rgb(143, 188, 143)"
+    },
+    {
+        "name": "Bamboo",
+        "size": "1",
+        "latlng": [
+            "774.850",
+            "213.000"
+        ],
+        "color": "rgb(143, 188, 143)"
+    },
+    {
+        "name": "Bamboo",
+        "size": "1",
+        "latlng": [
+            "778.102",
+            "215.625"
+        ],
+        "color": "rgb(143, 188, 143)"
+    },
+    {
+        "name": "Bamboo",
+        "size": "1",
+        "latlng": [
+            "769.847",
+            "209.375"
+        ],
+        "color": "rgb(143, 188, 143)"
+    },
+    {
+        "name": "Bamboo",
+        "size": "1",
+        "latlng": [
+            "766.595",
+            "211.625"
+        ],
+        "color": "rgb(143, 188, 143)"
+    },
+    {
+        "name": "Bamboo",
+        "size": "1",
+        "latlng": [
+            "764.970",
+            "209.000"
+        ],
+        "color": "rgb(143, 188, 143)"
+    },
+    {
+        "name": "Bamboo",
+        "size": "1",
+        "latlng": [
+            "762.968",
+            "211.625"
+        ],
+        "color": "rgb(143, 188, 143)"
+    },
+    {
+        "name": "Bamboo",
+        "size": "1",
+        "latlng": [
+            "763.844",
+            "214.500"
+        ],
+        "color": "rgb(143, 188, 143)"
+    },
+    {
+        "name": "Bamboo",
+        "size": "1",
+        "latlng": [
+            "771.723",
+            "211.000"
+        ],
+        "color": "rgb(143, 188, 143)"
+    },
+    {
+        "name": "Bush",
+        "size": "1",
+        "latlng": [
+            "658.684",
+            "238.000"
+        ],
+        "color": "rgb(0,255,0)"
+    },
+    {
+        "name": "Bush",
+        "size": "1",
+        "latlng": [
+            "700.957",
+            "246.000"
+        ],
+        "color": "rgb(0,255,0)"
+    },
+    {
+        "name": "Bush",
+        "size": "1",
+        "latlng": [
+            "701.708",
+            "250.750"
+        ],
+        "color": "rgb(0,255,0)"
+    },
+    {
+        "name": "Bush",
+        "size": "1",
+        "latlng": [
+            "702.958",
+            "254.500"
+        ],
+        "color": "rgb(0,255,0)"
+    },
+    {
+        "name": "Bush",
+        "size": "1",
+        "latlng": [
+            "708.107",
+            "237.000"
+        ],
+        "color": "rgb(0,255,0)"
+    },
+    {
+        "name": "Bush",
+        "size": "1",
+        "latlng": [
+            "707.106",
+            "241.250"
+        ],
+        "color": "rgb(0,255,0)"
+    },
+    {
+        "name": "Bush",
+        "size": "1",
+        "latlng": [
+            "704.605",
+            "244.500"
+        ],
+        "color": "rgb(0,255,0)"
+    },
+    {
+        "name": "Bush",
+        "size": "1",
+        "latlng": [
+            "704.230",
+            "248.875"
+        ],
+        "color": "rgb(0,255,0)"
+    },
+    {
+        "name": "Bush",
+        "size": "1",
+        "latlng": [
+            "705.605",
+            "252.750"
+        ],
+        "color": "rgb(0,255,0)"
+    },
+    {
+        "name": "Bush",
+        "size": "1",
+        "latlng": [
+            "339.970",
+            "288.000"
+        ],
+        "color": "rgb(0,255,0)"
+    },
+    {
+        "name": "Bush",
+        "size": "3",
+        "latlng": [
+            "245.114",
+            "235.375"
+        ],
+        "color": "rgb(0,255,0)"
+    },
+    {
+        "name": "Bush",
+        "size": "3",
+        "latlng": [
+            "244.739",
+            "246.375"
+        ],
+        "color": "rgb(0,255,0)"
+    },
+    {
+        "name": "Bush",
+        "size": "3",
+        "latlng": [
+            "234.108",
+            "235.250"
+        ],
+        "color": "rgb(0,255,0)"
+    },
+    {
+        "name": "Bush",
+        "size": "3",
+        "latlng": [
+            "233.733",
+            "246.500"
+        ],
+        "color": "rgb(0,255,0)"
+    },
+    {
+        "name": "Bush",
+        "size": "3",
+        "latlng": [
+            "223.853",
+            "235.125"
+        ],
+        "color": "rgb(0,255,0)"
+    },
+    {
+        "name": "Bush",
+        "size": "3",
+        "latlng": [
+            "222.727",
+            "247.125"
+        ],
+        "color": "rgb(0,255,0)"
+    },
+    {
+        "name": "Bush",
+        "size": "3",
+        "latlng": [
+            "212.596",
+            "236.000"
+        ],
+        "color": "rgb(0,255,0)"
+    },
+    {
+        "name": "Bush",
+        "size": "3",
+        "latlng": [
+            "204.592",
+            "249.125"
+        ],
+        "color": "rgb(0,255,0)"
+    },
+    {
+        "name": "Bush",
+        "size": "3",
+        "latlng": [
+            "202.341",
+            "237.375"
+        ],
+        "color": "rgb(0,255,0)"
+    },
+    {
+        "name": "Bush",
+        "size": "3",
+        "latlng": [
+            "191.835",
+            "248.125"
+        ],
+        "color": "rgb(0,255,0)"
+    },
+    {
+        "name": "Bush",
+        "size": "3",
+        "latlng": [
+            "192.961",
+            "238.125"
+        ],
+        "color": "rgb(0,255,0)"
+    },
+    {
+        "name": "Bush",
+        "size": "3",
+        "latlng": [
+            "182.330",
+            "248.000"
+        ],
+        "color": "rgb(0,255,0)"
+    },
+    {
+        "name": "Bush",
+        "size": "3",
+        "latlng": [
+            "181.704",
+            "238.250"
+        ],
+        "color": "rgb(0,255,0)"
+    },
+    {
+        "name": "Bush",
+        "size": "3",
+        "latlng": [
+            "170.823",
+            "237.250"
+        ],
+        "color": "rgb(0,255,0)"
+    },
+    {
+        "name": "Bush",
+        "size": "3",
+        "latlng": [
+            "170.573",
+            "246.625"
+        ],
+        "color": "rgb(0,255,0)"
+    },
+    {
+        "name": "False Ashoka",
+        "size": 2.5,
+        "latlng": [
+            "699.338",
+            "332.000"
+        ],
+        "color": "rgb(7, 125, 36)"
+    },
+    {
+        "name": "False Ashoka",
+        "size": 2.5,
+        "latlng": [
+            "698.338",
+            "348.000"
+        ],
+        "color": "rgb(20, 221, 34)"
+    },
+    {
+        "name": "False Ashoka",
+        "size": 2.5,
+        "latlng": [
+            "698.838",
+            "364.000"
+        ],
+        "color": "rgb(10, 132, 39)"
+    },
+    {
+        "name": "False Ashoka",
+        "size": 2.5,
+        "latlng": [
+            "699.338",
+            "380.000"
+        ],
+        "color": "rgb(23, 119, 11)"
+    },
+    {
+        "name": "False Ashoka",
+        "size": 2.5,
+        "latlng": [
+            "699.839",
+            "394.000"
+        ],
+        "color": "rgb(44, 125, 50)"
+    },
+    {
+        "name": "False Ashoka",
+        "size": 2.5,
+        "latlng": [
+            "717.848",
+            "394.000"
+        ],
+        "color": "rgb(18, 222, 8)"
+    },
+    {
+        "name": "False Ashoka",
+        "size": 2.5,
+        "latlng": [
+            "731.356",
+            "394.000"
+        ],
+        "color": "rgb(11, 233, 39)"
+    },
+    {
+        "name": "False Ashoka",
+        "size": 2.5,
+        "latlng": [
+            "744.863",
+            "394.000"
+        ],
+        "color": "rgb(29, 216, 5)"
+    },
+    {
+        "name": "False Ashoka",
+        "size": 2.5,
+        "latlng": [
+            "759.371",
+            "394.000"
+        ],
+        "color": "rgb(44, 107, 11)"
+    },
+    {
+        "name": "False Ashoka",
+        "size": 2.5,
+        "latlng": [
+            "770.877",
+            "394.500"
+        ],
+        "color": "rgb(17, 157, 46)"
+    },
+    {
+        "name": "False Ashoka",
+        "size": 2.5,
+        "latlng": [
+            "782.884",
+            "392.500"
+        ],
+        "color": "rgb(34, 103, 18)"
+    },
+    {
+        "name": "False Ashoka",
+        "size": 2.5,
+        "latlng": [
+            "796.892",
+            "394.000"
+        ],
+        "color": "rgb(3, 110, 8)"
+    },
+    {
+        "name": "False Ashoka",
+        "size": 2.5,
+        "latlng": [
+            "811.400",
+            "392.000"
+        ],
+        "color": "rgb(16, 158, 11)"
+    },
+    {
+        "name": "False Ashoka",
+        "size": 2.5,
+        "latlng": [
+            "823.907",
+            "393.000"
+        ],
+        "color": "rgb(31, 127, 29)"
+    },
+    {
+        "name": "False Ashoka",
+        "size": 2.5,
+        "latlng": [
+            "834.913",
+            "393.500"
+        ],
+        "color": "rgb(25, 251, 2)"
+    },
+    {
+        "name": "Bush",
+        "size": "1",
+        "latlng": [
+            "1269.223",
+            "188.125"
+        ],
+        "color": "rgb(0,255,0)"
+    },
+    {
+        "name": "Bush",
+        "size": "1",
+        "latlng": [
+            "1273.601",
+            "189.500"
+        ],
+        "color": "rgb(0,255,0)"
+    },
+    {
+        "name": "Bush",
+        "size": "1",
+        "latlng": [
+            "1277.478",
+            "190.000"
+        ],
+        "color": "rgb(0,255,0)"
+    },
+    {
+        "name": "Bush",
+        "size": "1",
+        "latlng": [
+            "1275.727",
+            "194.625"
+        ],
+        "color": "rgb(0,255,0)"
+    },
+    {
+        "name": "Bush",
+        "size": "1",
+        "latlng": [
+            "1271.725",
+            "193.500"
+        ],
+        "color": "rgb(0,255,0)"
+    },
+    {
+        "name": "Bush",
+        "size": "1",
+        "latlng": [
+            "1267.097",
+            "192.500"
+        ],
+        "color": "rgb(0,255,0)"
+    },
+    {
+        "name": "Bush",
+        "size": "1",
+        "latlng": [
+            "1278.479",
+            "185.125"
+        ],
+        "color": "rgb(0,255,0)"
+    },
+    {
+        "name": "Bush",
+        "size": "1",
+        "latlng": [
+            "1279.854",
+            "181.250"
+        ],
+        "color": "rgb(0,255,0)"
+    },
+    {
+        "name": "Bush",
+        "size": "1",
+        "latlng": [
+            "1280.480",
+            "177.000"
+        ],
+        "color": "rgb(0,255,0)"
+    },
+    {
+        "name": "Bush",
+        "size": "1",
+        "latlng": [
+            "1275.477",
+            "176.125"
+        ],
+        "color": "rgb(0,255,0)"
+    },
+    {
+        "name": "Bush",
+        "size": "1",
+        "latlng": [
+            "1271.475",
+            "175.250"
+        ],
+        "color": "rgb(0,255,0)"
+    },
+    {
+        "name": "Bush",
+        "size": "1",
+        "latlng": [
+            "1272.600",
+            "171.125"
+        ],
+        "color": "rgb(0,255,0)"
+    },
+    {
+        "name": "Bamboo",
+        "size": "2",
+        "latlng": [
+            "1229.864",
+            "247.875"
+        ],
+        "color": "rgb(143, 188, 143)"
+    },
+    {
+        "name": "Bush",
+        "size": "1",
+        "latlng": [
+            "342.204",
+            "276.500"
+        ],
+        "color": "rgb(0,255,0)"
+    },
+    {
+        "name": "Bush",
+        "size": "1",
+        "latlng": [
+            "337.861",
+            "276.625"
+        ],
+        "color": "rgb(0,255,0)"
+    },
+    {
+        "name": "Bush",
+        "size": "1",
+        "latlng": [
+            "333.921",
+            "276.813"
+        ],
+        "color": "rgb(0,255,0)"
+    },
+    {
+        "name": "Bush",
+        "size": "1",
+        "latlng": [
+            "330.795",
+            "276.813"
+        ],
+        "color": "rgb(0,255,0)"
+    },
+    {
+        "name": "Bush",
+        "size": "1",
+        "latlng": [
+            "351.118",
+            "264.750"
+        ],
+        "color": "rgb(0,255,0)"
+    },
+    {
+        "name": "Bush",
+        "size": "1",
+        "latlng": [
+            "350.931",
+            "268.500"
+        ],
+        "color": "rgb(0,255,0)"
+    },
+    {
+        "name": "Bush",
+        "size": "1",
+        "latlng": [
+            "351.118",
+            "270.813"
+        ],
+        "color": "rgb(0,255,0)"
+    },
+    {
+        "name": "Bush",
+        "size": "1",
+        "latlng": [
+            "816.704",
+            "290.250"
+        ],
+        "color": "rgb(0,255,0)"
+    },
+    {
+        "name": "Bush",
+        "size": "1",
+        "latlng": [
+            "821.457",
+            "291.250"
+        ],
+        "color": "rgb(0,255,0)"
+    },
+    {
+        "name": "Bush",
+        "size": "1",
+        "latlng": [
+            "824.980",
+            "291.500"
+        ],
+        "color": "rgb(0,255,0)"
+    },
+    {
+        "name": "Bush",
+        "size": "1",
+        "latlng": [
+            "829.233",
+            "291.625"
+        ],
+        "color": "rgb(0,255,0)"
+    },
+    {
+        "name": "Bush",
+        "size": "1",
+        "latlng": [
+            "833.235",
+            "291.875"
+        ],
+        "color": "rgb(0,255,0)"
+    },
+    {
+        "name": "Bush",
+        "size": "1",
+        "latlng": [
+            "836.987",
+            "291.750"
+        ],
+        "color": "rgb(0,255,0)"
+    },
+    {
+        "name": "Bush",
+        "size": "1",
+        "latlng": [
+            "840.739",
+            "291.750"
+        ],
+        "color": "rgb(0,255,0)"
+    },
+    {
+        "name": "Bush",
+        "size": "1",
+        "latlng": [
+            "844.616",
+            "292.000"
+        ],
+        "color": "rgb(0,255,0)"
+    },
+    {
+        "name": "Bush",
+        "size": "1",
+        "latlng": [
+            "810.973",
+            "287.125"
+        ],
+        "color": "rgb(0,255,0)"
+    },
+    {
+        "name": "False Ashoka",
+        "size": 2.5,
+        "latlng": [
+            "687.471",
+            "323.000"
+        ],
+        "color": "rgb(41, 176, 8)"
+    },
+    {
+        "name": "False Ashoka",
+        "size": 2.5,
+        "latlng": [
+            "674.714",
+            "322.000"
+        ],
+        "color": "rgb(24, 129, 35)"
+    },
+    {
+        "name": "False Ashoka",
+        "size": 2.5,
+        "latlng": [
+            "663.208",
+            "323.000"
+        ],
+        "color": "rgb(40, 116, 48)"
+    },
+    {
+        "name": "False Ashoka",
+        "size": 2.5,
+        "latlng": [
+            "652.202",
+            "322.000"
+        ],
+        "color": "rgb(39, 228, 4)"
+    },
+    {
+        "name": "False Ashoka",
+        "size": 2.5,
+        "latlng": [
+            "683.219",
+            "321.000"
+        ],
+        "color": "rgb(35, 207, 27)"
+    },
+    {
+        "name": "False Ashoka",
+        "size": 2.5,
+        "latlng": [
+            "669.711",
+            "322.500"
+        ],
+        "color": "rgb(39, 214, 30)"
+    },
+    {
+        "name": "False Ashoka",
+        "size": 2.5,
+        "latlng": [
+            "658.955",
+            "322.750"
+        ],
+        "color": "rgb(37, 151, 13)"
+    },
+    {
+        "name": "False Ashoka",
+        "size": 2.5,
+        "latlng": [
+            "649.200",
+            "322.250"
+        ],
+        "color": "rgb(13, 138, 19)"
+    },
+    {
+        "name": "Bougainvillea",
+        "size": "2",
+        "latlng": [
+            "878.456",
+            "279.500"
+        ],
+        "color": "red"
+    },
+    {
+        "name": "Bougainvillea",
+        "size": "2",
+        "latlng": [
+            "878.956",
+            "287.250"
+        ],
+        "color": "red"
+    },
+    {
+        "name": "Bush",
+        "size": "1",
+        "latlng": [
+            "954.617",
+            "241.750"
+        ],
+        "color": "rgb(0,255,0)"
+    },
+    {
+        "name": "Bush",
+        "size": "1",
+        "latlng": [
+            "949.990",
+            "241.875"
+        ],
+        "color": "rgb(0,255,0)"
+    },
+    {
+        "name": "Bush",
+        "size": "1",
+        "latlng": [
+            "945.112",
+            "241.625"
+        ],
+        "color": "rgb(0,255,0)"
+    },
+    {
+        "name": "Bush",
+        "size": "1",
+        "latlng": [
+            "940.484",
+            "241.625"
+        ],
+        "color": "rgb(0,255,0)"
+    },
+    {
+        "name": "Bush",
+        "size": "1",
+        "latlng": [
+            "936.107",
+            "241.750"
+        ],
+        "color": "rgb(0,255,0)"
+    },
+    {
+        "name": "Bush",
+        "size": "1",
+        "latlng": [
+            "931.104",
+            "241.625"
+        ],
+        "color": "rgb(0,255,0)"
+    },
+    {
+        "name": "Bush",
+        "size": "1",
+        "latlng": [
+            "926.477",
+            "241.500"
+        ],
+        "color": "rgb(0,255,0)"
+    },
+    {
+        "name": "Bush",
+        "size": "1",
+        "latlng": [
+            "921.224",
+            "241.750"
+        ],
+        "color": "rgb(0,255,0)"
+    },
+    {
+        "name": "Bush",
+        "size": "1",
+        "latlng": [
+            "916.721",
+            "241.750"
+        ],
+        "color": "rgb(0,255,0)"
+    },
+    {
+        "name": "Bush",
+        "size": "1",
+        "latlng": [
+            "900.713",
+            "241.750"
+        ],
+        "color": "rgb(0,255,0)"
+    },
+    {
+        "name": "Bush",
+        "size": "1",
+        "latlng": [
+            "896.460",
+            "242.125"
+        ],
+        "color": "rgb(0,255,0)"
+    },
+    {
+        "name": "Areca Palm",
+        "size": "1",
+        "latlng": [
+            "645.852",
+            "255.500"
+        ],
+        "color": "rgb(10, 114, 30)"
+    },
+    {
+        "name": "Areca Palm",
+        "size": "1",
+        "latlng": [
+            "647.227",
+            "258.750"
+        ],
+        "color": "rgb(35, 167, 20)"
+    },
+    {
+        "name": "Areca Palm",
+        "size": "1",
+        "latlng": [
+            "649.729",
+            "261.375"
+        ],
+        "color": "rgb(18, 164, 3)"
+    },
+    {
+        "name": "Areca Palm",
+        "size": "1",
+        "latlng": [
+            "652.981",
+            "262.000"
+        ],
+        "color": "rgb(33, 124, 44)"
+    },
+    {
+        "name": "Areca Palm",
+        "size": "1",
+        "latlng": [
+            "656.232",
+            "262.000"
+        ],
+        "color": "rgb(10, 134, 2)"
+    },
+    {
+        "name": "Areca Palm",
+        "size": "1",
+        "latlng": [
+            "651.105",
+            "257.375"
+        ],
+        "color": "rgb(28, 153, 43)"
+    },
+    {
+        "name": "Areca Palm",
+        "size": "1",
+        "latlng": [
+            "653.981",
+            "258.750"
+        ],
+        "color": "rgb(16, 119, 22)"
+    },
+    {
+        "name": "Areca Palm",
+        "size": "1",
+        "latlng": [
+            "657.233",
+            "258.500"
+        ],
+        "color": "rgb(36, 108, 47)"
+    },
+    {
+        "name": "Areca Palm",
+        "size": "1",
+        "latlng": [
+            "654.356",
+            "255.250"
+        ],
+        "color": "rgb(9, 242, 20)"
+    },
+    {
+        "name": "Areca Palm",
+        "size": "1",
+        "latlng": [
+            "657.858",
+            "255.625"
+        ],
+        "color": "rgb(40, 122, 8)"
+    },
+    {
+        "name": "Areca Palm",
+        "size": "1",
+        "latlng": [
+            "650.104",
+            "254.375"
+        ],
+        "color": "rgb(45, 253, 14)"
+    },
+    {
+        "name": "Areca Palm",
+        "size": "1",
+        "latlng": [
+            "661.735",
+            "259.250"
+        ],
+        "color": "rgb(14, 179, 11)"
+    },
+    {
+        "name": "Areca Palm",
+        "size": "1",
+        "latlng": [
+            "660.235",
+            "256.875"
+        ],
+        "color": "rgb(7, 122, 26)"
+    },
+    {
+        "name": "Areca Palm",
+        "size": "1",
+        "latlng": [
+            "645.351",
+            "252.500"
+        ],
+        "color": "rgb(42, 252, 48)"
+    },
+    {
+        "name": "Areca Palm",
+        "size": "1",
+        "latlng": [
+            "648.728",
+            "252.375"
+        ],
+        "color": "rgb(40, 188, 12)"
+    },
+    {
+        "name": "Areca Palm",
+        "size": "1",
+        "latlng": [
+            "652.605",
+            "252.500"
+        ],
+        "color": "rgb(32, 172, 17)"
+    },
+    {
+        "name": "Areca Palm",
+        "size": "1",
+        "latlng": [
+            "656.232",
+            "252.875"
+        ],
+        "color": "rgb(15, 219, 38)"
+    },
+    {
+        "name": "Areca Palm",
+        "size": "1",
+        "latlng": [
+            "659.984",
+            "253.500"
+        ],
+        "color": "rgb(9, 161, 1)"
+    },
+    {
+        "name": "Areca Palm",
+        "size": "1",
+        "latlng": [
+            "662.986",
+            "255.125"
+        ],
+        "color": "rgb(30, 127, 16)"
+    },
+    {
+        "name": "Areca Palm",
+        "size": "1",
+        "latlng": [
+            "665.738",
+            "258.250"
+        ],
+        "color": "rgb(0, 199, 12)"
+    },
+    {
+        "name": "Areca Palm",
+        "size": "1",
+        "latlng": [
+            "667.363",
+            "262.500"
+        ],
+        "color": "rgb(0, 140, 23)"
+    },
+    {
+        "name": "Areca Palm",
+        "size": "1",
+        "latlng": [
+            "663.987",
+            "262.000"
+        ],
+        "color": "rgb(17, 183, 10)"
+    },
+    {
+        "name": "Areca Palm",
+        "size": "1",
+        "latlng": [
+            "659.484",
+            "262.250"
+        ],
+        "color": "rgb(36, 171, 8)"
+    },
+    {
+        "name": "Areca Palm",
+        "size": "1",
+        "latlng": [
+            "671.616",
+            "263.000"
+        ],
+        "color": "rgb(41, 124, 6)"
+    },
+    {
+        "name": "Areca Palm",
+        "size": "1",
+        "latlng": [
+            "676.619",
+            "262.750"
+        ],
+        "color": "rgb(4, 159, 3)"
+    },
+    {
+        "name": "Areca Palm",
+        "size": "1",
+        "latlng": [
+            "681.371",
+            "262.750"
+        ],
+        "color": "rgb(30, 241, 23)"
+    },
+    {
+        "name": "Areca Palm",
+        "size": "1",
+        "latlng": [
+            "686.249",
+            "262.250"
+        ],
+        "color": "rgb(15, 146, 31)"
+    },
+    {
+        "name": "Bush",
+        "size": "1",
+        "latlng": [
+            "669.490",
+            "259.000"
+        ],
+        "color": "rgb(0,255,0)"
+    },
+    {
+        "name": "Bush",
+        "size": "1",
+        "latlng": [
+            "667.113",
+            "255.250"
+        ],
+        "color": "rgb(0,255,0)"
+    },
+    {
+        "name": "Bush",
+        "size": "1",
+        "latlng": [
+            "664.237",
+            "252.875"
+        ],
+        "color": "rgb(0,255,0)"
+    },
+    {
+        "name": "Bush",
+        "size": "1",
+        "latlng": [
+            "660.610",
+            "250.875"
+        ],
+        "color": "rgb(0,255,0)"
+    },
+    {
+        "name": "Areca Palm",
+        "size": "2",
+        "latlng": [
+            "513.944",
+            "218.000"
+        ],
+        "color": "rgb(18, 198, 33)"
+    },
+    {
+        "name": "Areca Palm",
+        "size": "2",
+        "latlng": [
+            "522.949",
+            "218.750"
+        ],
+        "color": "rgb(31, 117, 13)"
+    },
+    {
+        "name": "Areca Palm",
+        "size": "2",
+        "latlng": [
+            "518.697",
+            "217.500"
+        ],
+        "color": "rgb(19, 233, 38)"
+    },
+    {
+        "name": "Areca Palm",
+        "size": "1",
+        "latlng": [
+            "888.218",
+            "299.500"
+        ],
+        "color": "rgb(41, 225, 14)"
+    },
+    {
+        "name": "Areca Palm",
+        "size": "1",
+        "latlng": [
+            "883.966",
+            "299.000"
+        ],
+        "color": "rgb(23, 203, 11)"
+    },
+    {
+        "name": "Areca Palm",
+        "size": "1",
+        "latlng": [
+            "880.214",
+            "299.750"
+        ],
+        "color": "rgb(38, 254, 35)"
+    },
+    {
+        "name": "Areca Palm",
+        "size": "1",
+        "latlng": [
+            "892.115",
+            "299.000"
+        ],
+        "color": "rgb(17, 223, 33)"
+    },
+    {
+        "name": "Mango Tree",
+        "size": "4",
+        "latlng": [
+            "792.958",
+            "252.500"
+        ],
+        "color": "rgb(40, 246, 9)"
+    },
+    {
+        "name": "Norfolk Island Pine",
+        "size": "4",
+        "latlng": [
+            "774.698",
+            "250.750"
+        ],
+        "color": "rgb(10, 129, 1)"
+    },
+    {
+        "name": "Norfol Island Pine",
+        "size": "4",
+        "latlng": [
+            "748.434",
+            "249.500"
+        ],
+        "color": "rgb(44, 168, 40)"
+    },
+    {
+        "name": "Mango Tree",
+        "size": "4",
+        "latlng": [
+            "730.924",
+            "249.000"
+        ],
+        "color": "rgb(30, 223, 15)"
+    },
+    {
+        "name": "Unknown",
+        "size": "4",
+        "latlng": [
+            "921.872",
+            "311.813"
+        ],
+        "color": "rgb(20, 163, 17)"
+    },
+    {
+        "name": "Unknown",
+        "size": "4",
+        "latlng": [
+            "717.897",
+            "108.000"
+        ],
+        "color": "rgb(25, 165, 4)"
+    }
+]
