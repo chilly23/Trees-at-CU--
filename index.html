@@ -88,46 +88,43 @@
       stroke-width: 0.5;
     }
 
-/* Mobile adjustments */
-@media (max-aspect-ratio: 1/1) {
-  #treeInfoBox {
-    flex-direction: column;
-    top: 10%;
-    left: 10%;
-    width: 80%;
-    height: 80%;
-  }
-  
-  .tree-image-container {
-    flex: none;
-    width: 100%;
-    order: 1;
-    display: flex;           /* Ensure flex for centering */
-    justify-content: center; /* Center horizontally */
-    align-items: center;     /* Center vertically */
-  }
-  
-  .tree-info-container {
-    flex: none;
-    width: 90%;
-    order: 2;
-  }
+    /* Mobile adjustments */
+    @media (max-aspect-ratio: 1/1) {
+      #treeInfoBox {
+        flex-direction: column;
+        top: 10%;
+        left: 10%;
+        width: 80%;
+        height: 80%;
+      }
+      
+      .tree-image-container {
+        flex: none;
+        width: 100%;
+        order: 1;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+      }
+      
+      .tree-info-container {
+        flex: none;
+        width: 90%;
+        order: 2;
+      }
 
-  #treeInfoBox img {
-    width: 100%;
-    height: auto;
-    margin: 10px 0;
-    object-fit: contain;
-  }
-}
-
+      #treeInfoBox img {
+        width: 100%;
+        height: auto;
+        margin: 10px 0;
+        object-fit: contain;
+      }
+    }
   </style>
 </head>
 <body>
-
   <img src="https://raw.githubusercontent.com/chilly23/Trees-at-CU/main/CHRIST%20CENTRAL%20CAMPUS%20PLAN%20tree%20versionlogo.jpg" alt="logo" id="img1">
   <img src="https://raw.githubusercontent.com/chilly23/Trees-at-CU/main/CHRIST_CENTRAL_CAMPUS_PLAN_tree_versionnav2-removebg-preview.png" alt="nav" id="img2">
-
 
   <div id="map"></div>
   <div id="overlay"></div>
@@ -150,9 +147,8 @@
   <script src="https://www.gstatic.com/firebasejs/9.6.1/firebase-app-compat.js"></script>
   <script src="https://www.gstatic.com/firebasejs/9.6.1/firebase-database-compat.js"></script>
 
-
   <script>
-  const firebaseConfig = {
+    const firebaseConfig = {
       apiKey: "AIzaSyAtjExtlvBk307aRWjMJDb6S_tVXLjWHp4",
       authDomain: "treemap--cu.firebaseapp.com",
       databaseURL: "https://treemap--cu-default-rtdb.firebaseio.com",
@@ -163,152 +159,152 @@
       measurementId: "G-RXT4C8F4Q5"
     };
 
-  firebase.initializeApp(firebaseConfig);
-  const database = firebase.database();
+    firebase.initializeApp(firebaseConfig);
+    const database = firebase.database();
 
-  
-  function handleImageError(event) {
-      document.body.innerHTML = '<div style="background:white; color:red; font-size:24px; padding:20px; font-weight:bold;">Error: Critical images failed to load. Please check your connection or try again later.</div>';}
-
-  const imageSelectors = ['#img1', '#img2'];
-
-  imageSelectors.forEach(selector => {
-    const img = document.querySelector(selector);
-    if (img) {
-      img.onerror = handleImageError;
+    function handleImageError(event) {
+      document.body.innerHTML = '<div style="background:white; color:red; font-size:24px; padding:20px; font-weight:bold;">Error: Critical images failed to load. Please check your connection or try again later.</div>';
     }
-  });
 
-  const imageWidth = 500;
-  const imageHeight = 1400;
-  const bounds = [[0, 0], [imageHeight, imageWidth]];
-  const map = L.map('map', {
-    crs: L.CRS.Simple,
-    minZoom: -1,
-    maxZoom: 4,
-    maxBounds: bounds
-  });
-
-  // https://github.com/chilly23/Trees-at-CU/blob/5ad2db435481ab17485ae86b4a7acea27c1ba760/CHRIST%20CENTRAL%20CAMPUS%20PLAN%20tree%20version1.jpg
-  const image = L.imageOverlay('https://raw.githubusercontent.com/chilly23/Trees-at-CU/main/CHRIST%20CENTRAL%20CAMPUS%20PLAN%20tree%20version1.jpg', bounds).addTo(map);
-  map.fitBounds(bounds);
-
-  map.dragging.disable();
-  map.on('zoomend', function () {
-    if (map.getZoom() === map.getBoundsZoom(bounds)) {
-      map.dragging.disable();
-    } else {
-      map.dragging.enable();
-    }
-  });
-
-  database.ref('trees').once('value').then(snapshot => {
-    const trees = snapshot.val();
-    if (!trees) return;
-
-    console.log("Successfully fetched tree data:", trees);
-
-    database.ref('visits').once('value')
-    .then(snapshot => {
-      const currentVisits = snapshot.val() || 0;
-      const newVisits = currentVisits + 1;
-      
-      database.ref('visits').set(newVisits)
-        .then(() => {
-          console.log(`Updated root/visits to ${newVisits}`);
-        })
-        .catch(error => {
-          console.error("Error updating visits:", error);
-        });
-    })
-    .catch(error => {
-      console.error("Error fetching visits:", error);
+    const imageSelectors = ['#img1', '#img2'];
+    imageSelectors.forEach(selector => {
+      const img = document.querySelector(selector);
+      if (img) {
+        img.onerror = handleImageError;
+      }
     });
 
-    Object.entries(trees).forEach(([treeName, treeData]) => {
-      const latlngArray = treeData.latlng;
-      const treeColor = treeData.color || getRandomGreenShade();
-      const treeSize = parseFloat(treeData.size) || 3;
+    const imageWidth = 500;
+    const imageHeight = 1400;
+    const bounds = [[0, 0], [imageHeight, imageWidth]];
 
-      latlngArray.forEach(coords => {
-        const lat = parseFloat(coords[0]); // Y-axis
-        const lng = parseFloat(coords[1]); // X-axis
+    const map = L.map('map', {
+      crs: L.CRS.Simple,
+      minZoom: -1,
+      maxZoom: 4,
+      maxBounds: bounds
+    });
 
-        const circle = L.circle([lat, lng], {
-          radius: treeSize * 2,
-          color: treeColor,
-          fillColor: treeColor,
-          fillOpacity: 0.9,
-          className: 'glow-circle'
-        }).addTo(map);
+    const image = L.imageOverlay('https://raw.githubusercontent.com/chilly23/Trees-at-CU/main/CHRIST%20CENTRAL%20CAMPUS%20PLAN%20tree%20version1.jpg', bounds).addTo(map);
+    map.fitBounds(bounds);
+    if (window.innerWidth < window.innerHeight) {
+      map.setZoom(1);
+    }
 
-        circle.on('click', () => {
-          document.getElementById('treeName').textContent = treeName;
-          document.getElementById('treeDetails').innerHTML = '<p>Loading information...</p>';
-          document.getElementById('treeImage').src = "";
-          document.getElementById('treeInfoBox').style.display = 'flex';
-          document.getElementById('overlay').style.display = 'block';
+    map.dragging.disable();
+    map.on('zoomend', function () {
+      if (map.getZoom() === map.getBoundsZoom(bounds)) {
+        map.dragging.disable();
+      } else {
+        map.dragging.enable();
+      }
+    });
+
+    database.ref('trees').once('value').then(snapshot => {
+      const trees = snapshot.val();
+      if (!trees) return;
+
+      console.log("Successfully fetched tree data:", trees);
+
+      database.ref('visits').once('value')
+        .then(snapshot => {
+          const currentVisits = snapshot.val() || 0;
+          const newVisits = currentVisits + 1;
           
-          database.ref('descriptions/' + treeName).once('value')
-            .then(snapshot => {
-              const description = snapshot.val();
-              if (description) {
-                let infoHTML = '';
-
-                console.log(`Fetching description for ${treeName} from Firebase...`);
-                
-                if (description["Common Name"]) {
-                infoHTML += `<p><strong>Common Name:</strong> ${description["Common Name"]}</p>`;
-                }
-                
-                if (description["Scientific Name"]) {
-                infoHTML += `<p><strong>Scientific Name:</strong> ${description["Scientific Name"]}</p>`;
-                }
-        
-                if (description["Family"]) {
-                infoHTML += `<p><strong>Family:</strong> ${description["Family"]}</p>`;
-                }
-                
-                if (description["Uses"]) {
-                infoHTML += `<p><strong>Uses:</strong> ${description["Uses"]}</p>`;
-                }
-                
-                if (description["Description"]) {
-                infoHTML += `<p><strong>Description:</strong> ${description["Description"]}</p><br>`;
-                }
-                
-                
-                document.getElementById('treeDetails').innerHTML = infoHTML;
-                
-                if (description.img) {
-                  document.getElementById('treeImage').src = description.img;
-                  document.getElementById('treeImage').alt = treeName + " Image";
-                }
-              } else {
-                document.getElementById('treeDetails').innerHTML = `<p>No detailed information available for this plant.</p>`;
-              }
+          database.ref('visits').set(newVisits)
+            .then(() => {
+              console.log(`Updated root/vis regrets to ${newVisits}`);
             })
             .catch(error => {
-              console.error("Error fetching tree description:", error);
-              document.getElementById('treeDetails').innerHTML = `<p>Error loading information. Please try again later.</p>`;
+              console.error("Error updating visits:", error);
             });
+        })
+        .catch(error => {
+          console.error("Error fetching visits:", error);
+        });
+
+      Object.entries(trees).forEach(([treeName, treeData]) => {
+        const latlngArray = treeData.latlng;
+        const treeColor = treeData.color || getRandomGreenShade();
+        const treeSize = parseFloat(treeData.size) || 3;
+
+        latlngArray.forEach(coords => {
+          const lat = parseFloat(coords[0]); // Y-axis
+          const lng = parseFloat(coords[1]); // X-axis
+
+          const circle = L.circle([lat, lng], {
+            radius: treeSize * 2,
+            color: treeColor,
+            fillColor: treeColor,
+            fillOpacity: 0.9,
+            className: 'glow-circle'
+          }).addTo(map);
+
+          circle.on('click', () => {
+            document.getElementById('treeName').textContent = treeName;
+            document.getElementById('treeDetails').innerHTML = '<p>Loading information...</p>';
+            document.getElementById('treeImage').src = "";
+            document.getElementById('treeInfoBox').style.display = 'flex';
+            document.getElementById('overlay').style.display = 'block';
+            
+            database.ref('descriptions/' + treeName).once('value')
+              .then(snapshot => {
+                const description = snapshot.val();
+                if (description) {
+                  let infoHTML = '';
+
+                  console.log(`Fetching description for ${treeName} from Firebase...`);
+                  
+                  if (description["Common Name"]) {
+                    infoHTML += `<p><strong>Common Name:</strong> ${description["Common Name"]}</p>`;
+                  }
+
+                  if (description["Scientific Name"]) {
+                    infoHTML += `<p><strong>Scientific Name:</strong> <i>${description["Scientific Name"]}</i></p>`;
+                  }
+
+                  if (description["Family"]) {
+                    infoHTML += `<p><strong>Family:</strong> <i>${description["Family"]}</i></p>`;
+                  }
+
+                  if (description["Uses"]) {
+                    infoHTML += `<p><strong>Uses:</strong> ${description["Uses"]}</p>`;
+                  }
+                  
+                  if (description["Description"]) {
+                    infoHTML += `<p><strong>Description:</strong> ${description["Description"]}</p><br>`;
+                  }
+                  
+                  document.getElementById('treeDetails').innerHTML = infoHTML;
+                  
+                  if (description.img) {
+                    document.getElementById('treeImage').src = description.img;
+                    document.getElementById('treeImage').alt = treeName + " Image";
+                  }
+                } else {
+                  document.getElementById('treeDetails').innerHTML = `<p>No detailed information available for this plant.</p>`;
+                }
+              })
+              .catch(error => {
+                console.error("Error fetching tree description:", error);
+                document.getElementById('treeDetails').innerHTML = `<p>Error loading information. Please try again later.</p>`;
+              });
+          });
         });
       });
     });
-  });
 
-  function getRandomGreenShade() {
-    const g = Math.floor(Math.random() * 156) + 100;
-    const r = Math.floor(Math.random() * 50);
-    const b = Math.floor(Math.random() * 50);
-    return `rgb(${r}, ${g}, ${b})`;
-  }
+    function getRandomGreenShade() {
+      const g = Math.floor(Math.random() * 156) + 100;
+      const r = Math.floor(Math.random() * 50);
+      const b = Math.floor(Math.random() * 50);
+      return `rgb(${r}, ${g}, ${b})`;
+    }
 
-  document.getElementById('overlay').addEventListener('click', () => {
-    document.getElementById('treeInfoBox').style.display = 'none';
-    document.getElementById('overlay').style.display = 'none';
-  });
-
+    document.getElementById('overlay').addEventListener('click', () => {
+      document.getElementById('treeInfoBox').style.display = 'none';
+      document.getElementById('overlay').style.display = 'none';
+    });
   </script>
 </body>
 </html>
