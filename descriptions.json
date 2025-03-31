@@ -9,7 +9,7 @@
 
 
 
-    "Coconut Tree" : {
+    "Coconut palm" : {
         "img":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Lefaga%2C_Return_to_Paradise_beach%2C_south_coast_Upolu_Island%2C_Samoa%2C_2009.jpg/330px-Lefaga%2C_Return_to_Paradise_beach%2C_south_coast_Upolu_Island%2C_Samoa%2C_2009.jpg",
         "Scientific Name": "Cocos nucifera",
         "Family": "Palmaceae",
@@ -22,7 +22,7 @@
 
     "Brazilian Rosewood": {
         "img":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Dalbergia_nigra_Bl%C3%A4tter1.jpg/330px-Dalbergia_nigra_Bl%C3%A4tter1.jpg",
-        "Scientific Name": "Jacaranda Mimosifolia",
+        "Scientific Name": "Dalbergia nigra",
         "Family": "Bignoniaceae",
         "Common Name": "Brazilian Rosewood, Bahia Rosewood, Black Poui",
         "Uses": "Venereal infections, Gastrointestinal disorders, Highquality timber (furniture, instruments), ornamental",
@@ -54,7 +54,7 @@
 
 
     "Jaggery Palm":{
-        "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTujMw0X6mSZ8pROcSYCpCT1FOrrsxVOJAi3g&s",
+        "img":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Caryota_urens_full.jpg/330px-Caryota_urens_full.jpg",
         "Scientific Name": "Caryota urens",
         "Family": "Arecaceae",
         "Common Name": "Jaggery Palm, Fishtail Palm",
@@ -118,7 +118,7 @@
 
 
     "Yellow Trumpet":{
-        "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0AMjzoyfWELppPbxX9No81nwYVK8H8XMzrw&s",
+        "img":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/%28Tecoma_stans%29_yellow_bell_flowers_at_Tenneti_Park_02.JPG/1280px-%28Tecoma_stans%29_yellow_bell_flowers_at_Tenneti_Park_02.JPG",
         "Scientific Name": "Tabebuia aurea",
         "Family": "Bignoniaceae",
         "Common Name": "Yellow Trumpet Tree, Golden Trumpet",
@@ -162,7 +162,7 @@
 
 
     "Bamboo":{
-        "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQs3TGI7YL2niaGLd5aOVK3HLscC7sEBrpIgQ&s",
+        "img":"https://upload.wikimedia.org/wikipedia/commons/4/4a/Bamboo_Feb09.jpg",
         "Scientific Name": "Bambusa vulgaris (common species)",
         "Family": "Poaceae",
         "Common Name": "Bamboo",
@@ -195,7 +195,7 @@
 
 
     "Indian Almond":{
-        "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDmbcv8rj7zjrK3sYEgMoKNIx2zGevSWoy0A&s",
+        "img":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Terminalia_catappa_%28fruit%29.jpg/1280px-Terminalia_catappa_%28fruit%29.jpg",
         "Scientific Name": "Terminalia catappa",
         "Family": "Combretaceae",
         "Common Name": "Indian Almond, Tropical Almond",
@@ -217,7 +217,7 @@
 
 
     "Blue Trumpet Vine":{
-        "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmahO7w1kk8tOE1wWyZKXD2MVKNSUvNWctJA&s",
+        "img":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Thunbergia_grandiflora_Hong_Kong.jpg/800px-Thunbergia_grandiflora_Hong_Kong.jpg",
         "Scientific Name": "Thunbergia grandiflora",
         "Family": "Acanthaceae",
         "Common Name": "Blue Trumpet Vine, Bengal Trumpet",
@@ -228,7 +228,7 @@
 
 
     "Weeping Bottlebrush":{
-        "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfK2zt-D4qTbi4fsjh6vDu5kVzuP4r20nqjQ&s",
+        "img":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Melaleuca_viminalis.jpg/330px-Melaleuca_viminalis.jpg",
         "Scientific Name": "Callistemon viminalis",
         "Family": "Myrtaceae",
         "Common Name": "Weeping Bottlebrush",
@@ -239,7 +239,7 @@
 
 
     "Tree of Heaven":{
-        "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvjwzGn9swkzziKZ2dGRe4MUXGrA5NDinwdQ&s",
+        "img":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/G%C3%B6tterbaum_%28Ailanthus_altissima%29.jpg/800px-G%C3%B6tterbaum_%28Ailanthus_altissima%29.jpg",
         "Scientific Name": "Ailanthus altissima",
         "Family": "Simaroubaceae",
         "Common Name": "Tree of Heaven, Stink Tree",
@@ -261,7 +261,7 @@
 
 
     "Guava Tree":{
-        "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAQpz5vG4O16-3qfYNLFmimITkmWOA0xZNgQ&s",
+        "img":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Goya_blancs.JPG/1920px-Goya_blancs.JPG",
         "Scientific Name": "Psidium guajava",
         "Family": "Myrtaceae",
         "Common Name": "Guava Tree",
@@ -272,7 +272,7 @@
 
 
     "Weeping Fig":{
-        "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTiuJvBdYdW7M5xvfZF1uCsUTkf_DJ9Dex1A&s",
+        "img":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Ficus_benjamina_1.jpg/1280px-Ficus_benjamina_1.jpg",
         "Scientific Name": "Ficus benjamina",
         "Family": "Moraceae",
         "Common Name": "Weeping Fig",
@@ -283,7 +283,7 @@
 
 
     "Fig":{
-        "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSidEjm6W_loeDgHQeCSp2uXD2AGQtiq7obZw&s",
+        "img":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Smokve_na_grani.jpg/1280px-Smokve_na_grani.jpg",
         "Scientific Name": "Ficus racemosa",
         "Family": "Moraceae",
         "Common Name": "Fig, Atthi hannu, Udumbara",
@@ -294,7 +294,7 @@
 
 
     "She-oak":{
-        "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBu_Llr-0Mt2a3tcmdADQSvsZFnz-gsn60Fw&s",
+        "img":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Casuarina_equisetifolia_0004.jpg/1280px-Casuarina_equisetifolia_0004.jpg",
         "Scientific Name": "Casuarina equisetifolia",
         "Family": "Casuarinaceae",
         "Common Name": "She-oak, Australian Pine",
@@ -370,12 +370,24 @@
 
 
 
-    "Unknown":{
-        "Scientific Name": "N/A",
-        "Family": "N/A",
-        "Common Name": "Unknown",
-        "Uses": "N/A",
+    "Monkey pod Tree":{
+        "img":"https://upload.wikimedia.org/wikipedia/commons/b/b7/Flower_%26_flower_buds-_Samanea_saman_I_IMG_3407.jpg",
+        "Scientific Name": "Samanea saman (formerly Albizia saman)",
+        "Family": "Fabaceae (Legume family)",
+        "Common Name": "Monkey Pod, Rain Tree, Saman",
+        "Uses": "Furniture-making and carving",
         "Description":  
-        "Unknown lacks specific identification, preventing detailed classification. It could represent an unrecorded or unidentified species in the dataset. Without more data, its uses and traits remain speculative. Further context or observation would be needed to classify it."}
+        "The Monkey Pod is a large, spreading tree that can grow up to 80 feet tall with a massive umbrella-shaped canopy that can spread 100-150 feet wide. It has distinctive twice-compound leaves (bipinnate) that fold up at night. The tree produces pink, fluffy flowers that resemble powder puffs, similar to what might be visible in your first image."},
+
+    
+    "Cannonball Tree":{
+        "img":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/CanonBall_tree_with_flowers_panmana_kollam.jpg/330px-CanonBall_tree_with_flowers_panmana_kollam.jpg",
+        "Scientific Name": "Couroupita guianensis",
+        "Family": "Lecythidaceae",
+        "Common Name": "Cannonball Tree, Ayahuma, Cannonball Tree, Sal de Indias",
+        "Uses": "Eczema, dermatisis, cough, stomach ailments, pain relief",
+        "Description":  
+        "The Cannonball Tree is a deciduous tropical tree that grows 50-75 feet tall. Its most distinctive feature is its cauliflory - large, fragrant flowers that grow directly from the trunk rather than from branches. The flowers are complex, showy, and typically orange-red to pink with many stamens. After flowering, the tree produces large, woody, spherical fruits (6-8 inches in diameter) that resemble cannonballs, which hang from the trunk and main branches."
+    }
 
     }
