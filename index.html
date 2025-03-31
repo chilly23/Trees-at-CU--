@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Tree map CU</title>
+  <title>CU Tree map</title>
   <meta charset="utf-8" />
   <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
   <style>
@@ -120,6 +120,7 @@
     object-fit: contain;
   }
 }
+
   </style>
 </head>
 <body>
@@ -130,6 +131,10 @@
 
   <div id="map"></div>
   <div id="overlay"></div>
+
+  <div id="signature" style="display: none;">
+    01000100011011110110111001100101001000000110001001111001001000000111011001100101011011000110000101101110
+  </div>
 
   <div id="treeInfoBox" style="display: none;">
     <div class="tree-image-container">
@@ -145,6 +150,7 @@
   <script src="https://www.gstatic.com/firebasejs/9.6.1/firebase-app-compat.js"></script>
   <script src="https://www.gstatic.com/firebasejs/9.6.1/firebase-database-compat.js"></script>
 
+
   <script>
   const firebaseConfig = {
       apiKey: "AIzaSyAtjExtlvBk307aRWjMJDb6S_tVXLjWHp4",
@@ -159,6 +165,19 @@
 
   firebase.initializeApp(firebaseConfig);
   const database = firebase.database();
+
+  
+  function handleImageError(event) {
+      document.body.innerHTML = '<div style="background:white; color:red; font-size:24px; padding:20px; font-weight:bold;">Error: Critical images failed to load. Please check your connection or try again later.</div>';}
+
+  const imageSelectors = ['#img1', '#img2'];
+
+  imageSelectors.forEach(selector => {
+    const img = document.querySelector(selector);
+    if (img) {
+      img.onerror = handleImageError;
+    }
+  });
 
   const imageWidth = 500;
   const imageHeight = 1400;
@@ -255,7 +274,7 @@
                 }
                 
                 if (description["Description"]) {
-                infoHTML += `<p><strong>Description:</strong> ${description["Description"]}</p><br><br><br>`;
+                infoHTML += `<p><strong>Description:</strong> ${description["Description"]}</p><br>`;
                 }
                 
                 
@@ -289,6 +308,7 @@
     document.getElementById('treeInfoBox').style.display = 'none';
     document.getElementById('overlay').style.display = 'none';
   });
+
   </script>
 </body>
 </html>
