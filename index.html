@@ -4,6 +4,13 @@
   <title>CU Tree map</title>
   <meta charset="utf-8" />
   <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
+  
+  <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+
+  <script src="https://www.gstatic.com/firebasejs/9.6.1/firebase-app-compat.js"></script>
+  <script src="https://www.gstatic.com/firebasejs/9.6.1/firebase-database-compat.js"></script>
   <style>
     html, body, #map {
       height: 100%;
@@ -143,10 +150,6 @@
     </div>
   </div>
 
-  <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
-  <script src="https://www.gstatic.com/firebasejs/9.6.1/firebase-app-compat.js"></script>
-  <script src="https://www.gstatic.com/firebasejs/9.6.1/firebase-database-compat.js"></script>
-
   <script>
     const firebaseConfig = {
       apiKey: "AIzaSyAtjExtlvBk307aRWjMJDb6S_tVXLjWHp4",
@@ -272,7 +275,7 @@
                   }
                   
                   if (description["Description"]) {
-                    infoHTML += `<p><strong>Description:</strong> ${description["Description"]}</p><br>`;
+                    infoHTML += `<p>${description["Description"]}</p><br>`;
                   }
                   
                   document.getElementById('treeDetails').innerHTML = infoHTML;
