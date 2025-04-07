@@ -160,8 +160,20 @@
   </div>
 
   <script>
+    function decodeKey(obfStr, xorKey) {
+      const base64Decoded = atob(obfStr);
+      let xorDecoded = '';
+
+      for (let i = 0; i < base64Decoded.length; i++) {
+        xorDecoded += String.fromCharCode(base64Decoded.charCodeAt(i) ^ xorKey.charCodeAt(i % xorKey.length));
+      }
+
+      return xorDecoded.split('').reverse().join('');
+    }
+
+    const infoaaaaaa = decodeKey("N1UEEwYHcxlEYEceUxYUBwEYXgcXUxsSQA8C", "SECRET");
     const firebaseConfig = {
-      apiKey: "AIzaSyAtjExtlvBk307aRWjMJDb6S_tVXLjWHp4",
+      apiKey: infoaaaaaa,
       authDomain: "treemap--cu.firebaseapp.com",
       databaseURL: "https://treemap--cu-default-rtdb.firebaseio.com",
       projectId: "treemap--cu",
